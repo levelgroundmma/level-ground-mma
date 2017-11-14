@@ -9,9 +9,17 @@
         {% endif %}
 
         {% if page.text-cta-banner.cta.text %}
-            <a href="{{ site.baseurl }}{{ page.text-cta-banner.cta.link  }}">
-                <button>{{ page.text-cta-banner.cta.text  }}</button>
-            </a>
+
+            {% if page.text-cta-banner.cta.link %}
+                <a href="{{ site.baseurl }}{{ page.text-cta-banner.cta.link  }}">
+                    <button>{{ page.text-cta-banner.cta.text  }}</button>
+                </a>
+            {% elsif page.text-cta-banner.cta.email %}
+                <a href="{{ page.text-cta-banner.cta.email  }}">
+                    <button>{{ page.text-cta-banner.cta.text  }}</button>
+                </a>
+            {% endif %}
+
         {% endif %}
     </div>
 </section>

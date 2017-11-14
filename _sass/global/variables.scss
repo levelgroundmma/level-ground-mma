@@ -24,10 +24,11 @@ $padding-card-lr: 2em;
 
 // fonts
 $font-family-primary: 'Oswald', sans-serif;
-$font-family-secondary: 'Raleway', 'Roboto', sans-serif;
+$font-family-secondary: 'Roboto', sans-serif;
 
 // box shadows
 $box-shadow1: 0, 3px, 8px, rgba(0, 0, 0, 0.3);
+$box-shadow2: 0 3px 20px rgba(33, 38, 45, 0.06), -1px 1px 10px rgba(0, 0, 0, 0.02);
 
 // media queries
 $min-large-desktop-width: 1920px;
@@ -47,3 +48,15 @@ $max-banner-height: 540px;
 $header-nav-z: 9999;
 $bg-overlay-z: 1;
 $cards-z: 2;
+
+// Animations
+@keyframes slide-fade-in {
+    0% {
+        opacity: 0;
+        transform: translateX(-75px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}

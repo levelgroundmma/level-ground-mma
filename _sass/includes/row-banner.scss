@@ -6,13 +6,14 @@
     justify-content: center;
     max-height: $max-banner-height;
     margin: 0 auto;
-    min-height: 100vh;
+    // min-height: 100vh;
+    padding: $spacer-lg 0;
     position: relative;
     right: 0;
     width: 100%;
     @media only screen and (max-width: $max-mobile-width) {
         max-height: none;
-        padding: $spacer-sm;
+        padding: $spacer-lg $spacer-sm;
     }
     .row-banner-container {
         background-color: $color-grey;

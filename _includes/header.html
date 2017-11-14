@@ -1,60 +1,28 @@
-<header>
-    <nav class="header-nav">
-        <ul class="header-nav-list">
-            {% for item in site.data.menus.header %}
-            <li class="menu-item-{{ loop.index }}">
-                <a href="{{ site.baseurl }}{{ item.url }}" title="Go to {{ item.title }}">
-                    {{ item.title }}
-                </a>
-            </li>
-            {% endfor %}
-        </ul>
-        <!-- Mobile Navigation -->
-        <nav role="hamburger-menu" id="navigation-drawer">
-            <div class="mobile-toggle">
-                <input type="checkbox">
-                <span></span>
-                <span></span>
-                <span></span>
-                <div class="navigation-drawer-menu-button">Menu</div>
-                <ul class="menu">
-                {% for item in site.data.menus.site-map %}
-                    <li class="footer-menu-item-{{ loop.index }}">
-                        <a href="{{ site.baseurl }}{{ item.url }}" title="Go to {{ item.title }}">
-                            {{ item.title }}
-                        </a>
-                    </li>
-                {% endfor %}
-                {% for item in site.data.menus.social-media %}
-                    <li class="social-media-{{ loop.index }}">
-                        <a href="{{ item.url }}" title="Go to {{ item.title }}">
-                        <i class="fa {{ item.icon }}" aria-hidden="true"></i>
-                        </a>
-                    </li>
-                {% endfor %}
-                </ul>
-            </div>
-        </nav>
-        <!-- Mobile Navigation Ends -->
-        <ul class="header-nav-list">
-            {% for item in site.data.menus.header-logo %}
-            <li class="menu-item-{{ loop.index }}">
-                <a href="{{ site.baseurl }}{{ item.url }}" title="Go to {{ item.title }}">
-                    <img src="{{ site.baseurl }}{{ item.logo-image }}" alt="{{ item.title }}" />
-                </a>
-            </li>
-            {% endfor %}
-        </ul>
-        <ul class="header-nav-list">
-            {% for item in site.data.menus.header-cta %}
-            <li class="menu-item-{{ loop.index }}">
-                <a href="{{ site.baseurl }}{{ item.url }}" title="Go to {{ item.title }}">
-                    <button>
+<header class="header-compact">
+    <nav class="header-compact-nav">
+        {% for item in site.data.menus.header-logo %}
+            <a class="header-compact-logo"  href="{{ site.baseurl }}{{ item.url }}" title="Go to {{ item.title }}">
+                <img src="{{ site.baseurl }}{{ item.logo-image }}" alt="{{ item.title }}" />
+            </a>
+        {% endfor %}
+        {% for item in site.data.menus.header %}
+            <a class="header-compact-link" href="{{ site.baseurl }}{{ item.url }}" title="Go to {{ item.title }}">
+                {{ item.title }}
+            </a>
+        {% endfor %}
+        <div class="header-compact-nav-mobile">
+            <a class="header-compact-nav-icon" id="mobile-nav-icon">
+                <span class="header-compact-nav-icon-line line-1"></span>
+                <span class="header-compact-nav-icon-line line-2"></span>
+                <span class="header-compact-nav-icon-line line-3"></span>
+            </a>
+            <div class="header-compact-nav-mobile-links">
+                {% for item in site.data.menus.header %}
+                    <a class="header-compact-nav-mobile-link" href="{{ site.baseurl }}{{ item.url }}" title="Go to {{ item.title }}">
                         {{ item.title }}
-                    </button>
-                </a>
-            </li>
-            {% endfor %}
-        </ul>
+                    </a>
+                {% endfor %}
+            </div>
+        </div>
     </nav>
 </header>

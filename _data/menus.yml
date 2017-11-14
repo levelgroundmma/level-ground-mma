@@ -1,24 +1,28 @@
 header:
-  - url: /away
-    title: Away
-    identifier: away
   - url: /gym
     title: Gym
     identifier: gym
+  - url: /hire-us
+    title: Hire Us
+    identifier: hire-us
+  - url: /success-tracks
+    title: Success Tracks
+    identifier: success-tracks
   - url: /staff
     title: Staff
     identifier: staff
+  - url: /news
+    title: News
+    identifier: news
+  - url: /give
+    title: Give
+    identifier: give
 
 header-logo:
   - url: /
     title: logo
     identifier: logo
-    logo-image: "/assets/image/lg_logo.png"
-
-header-cta:
-  - url: /give
-    title: Give
-    identifier: give
+    logo-image: "/assets/image/lg_logo_white.png"
 
 social-media:
   - url: http://www.facebook.com
@@ -35,9 +39,9 @@ social-media:
     icon: fa-envelope-o
 
 site-map:
-  - url: /away
-    title: Away
-    identifier: away
+  - url: /hire-us
+    title: Hire Us
+    identifier: hire-us
   - url: /gym
     title: Gym
     identifier: gym

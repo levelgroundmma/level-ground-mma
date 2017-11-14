@@ -1,13 +1,14 @@
 ---
 layout: success-tracks
 title: Success Tracks
-permalink: /success-tracks/
+permalink: /success-tracks
 mixed-media-banner:
     background-image: /assets/image/landing-card-visit-the-gym.jpg
     footnote: Sounds like you?
     cta:
         text: Get In Touch
-        link: mailto:ali@levelgroundmma.org
+        link: 
+        email: mailto:ali@levelgroundmma.org
     cards:
         - image: /assets/image/workforce-development-card-image.jpg
           title: Workforce Development
@@ -23,7 +24,11 @@ mixed-media-banner:
             text: 
             link: 
           footnote:  
-text-banner:
+text-cta-banner:
     title: Ways to Volunteer
     description: Ask about our tutoring, professional development, and youth employment programs. Level Ground is a tax-exempt nonprofit under the IRS (EIN 46-3915852) and supported by friends like you.
+    cta:
+        text: Get In Touch
+        link: 
+        email: mailto:ali@levelgroundmma.org
 ---

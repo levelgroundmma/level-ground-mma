@@ -1,7 +1,7 @@
-<section class="sponsors-banner">
-    <div class="sponsors-banner-container">
-        <h2 class="text-centered sponsors-banner-title">Our work would not be possible without the following partners</h2>
-        {% for logo in site.data.logos %}
+<section class="logos-banner">
+    <div class="logos-banner-container">
+        <h2 class="text-centered logos-banner-title">{{ include.title }}</h2>
+        {% for logo in include.data %} 
             {% if logo.image %}
 
                 {% if logo.website %}

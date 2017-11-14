@@ -24,6 +24,7 @@ mixed-media-banner:
     cta:
         text: 
         link: 
+        email:
     cards:
         - image: /assets/image/landing-card-visit-the-gym.jpg
           title: Visit the Training Center
@@ -37,7 +38,7 @@ mixed-media-banner:
           description: Host a LG Boxing Bootcamp or Self Defense session for your company or group onsite. 
           cta:
             text: Hire Us
-            link: /away
+            link: /hire-us
           footnote: 
 
 text-cta-banner:

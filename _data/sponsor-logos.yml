@@ -1,0 +1,36 @@
+- name: MassHousing
+  image: "/assets/image/logos/mass-housing-logo.png"
+  website: https://www.masshousing.com/
+- name: HoodFit
+  image: "/assets/image/logos/hood-fit-logo.jpg"
+  website: https://www.facebook.com/HoodFitMA/
+- name: The Boston Foundation
+  image: "/assets/image/logos/the-boston-foundation-logo.jpg"
+  website: http://www.tbf.org/
+- name: The Forest Foundation
+  image: "/assets/image/logos/the-forest-foundation-logo.png"
+  website: http://forestfoundation.net/
+- name: The Lenny Zakim Fund
+  image: "/assets/image/logos/the-lenny-zakim-fund-logo.jpg"
+  website: http://www.thelennyzakimfund.org/home/
+- name: City of Boston
+  image: "/assets/image/logos/city-of-boston-logo.png"
+  website: https://www.boston.gov/
+- name: TUGG
+  image: "/assets/image/logos/tugg-logo.png"
+  website: http://tugg.org/
+- name: Reality Church Boston
+  image: "/assets/image/logos/reality-church-boston-logo.png"
+  website: http://www.realityboston.com/
+- name: New England Grassroots Environment Fund
+  image: "/assets/image/logos/new-england-grass-roots-fund-logo.jpg"
+  website: https://grassrootsfund.org/
+- name: Boston Police Department
+  image: "/assets/image/logos/bpd-logo.png"
+  website: http://bpdnews.com/
+- name: Attorney General’s Office 
+  image: "/assets/image/logos/ago-logo.png"
+  website: https://www.mass.gov/orgs/office-of-attorney-general-maura-healey
+- name: My Brother’s Keeper
+  image: "/assets/image/logos/mbk-logo.jpg"
+  website: http://www.mybrotherskeeper.org/

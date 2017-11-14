@@ -1,10 +1,10 @@
 ---
-layout: away
-title: Away
-permalink: /away/
+layout: hire-us
+title: Hire Us
+permalink: /hire-us
 hero-banner:
     media:
-        video: 
+        video: /assets/video/landing.mp4
         image: /assets/image/classes-hero.jpg
     title: We Come To You
     description: Host a Level Ground class at your workplace or school.  We provide invigorating workshops that will leave your group empowered and connected to one another. 
@@ -15,21 +15,31 @@ mixed-media-banner:
     background-image:
     footnote: 
     cta:
-        text:
+        text: Book A Class
         link: 
+        email: mailto:ali@levelgroundmma.org
     cards:
-        - image: /assets/image/landing-card-visit-the-gym.jpg
+        - image:
+          icon: /assets/image/boxing_icon_ko.png
           title: Boxing Bootcamp
           description: Throw on some gloves and break a sweat during this fun, rigorous Bootcamp.  Participants of any fitness level will learn the basics of boxing and enjoy a dynamic conditioning workout.
           cta:
             text: 
             link: 
           footnote: "*Kickboxing option available."
-        - image: /assets/image/college-access-card-image.jpg
+        - image:
+          icon: /assets/image/fist_icon_ko.png
           title: We Come to You
           description: Learn to how to manage a variety of common attack scenarios!  Our instructors lay down a foundation of defensive techniques and counter attacks that build off of one another so that participants are empowered to take control of any situation.
           cta:
             text:
             link:
           footnote: "*Women’s-only option available"
+text-cta-banner:
+    title: Want to kick it up a notch?
+    description: 
+    cta:
+        text: Book A Class
+        link: 
+        email: mailto:ali@levelgroundmma.org
 ---

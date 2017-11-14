@@ -13,53 +13,56 @@
                     <div class="mixed-media-banner-card-image-wrapper">
                         <img src="{{ site.baseurl }}{{ card.image }}" alt="" />
                     </div>
-                    <div class="mixed-media-banner-content">
-                        {% if card.title %}
-                            <h3>{{ card.title }}</h3>
-                        {% endif %}
-                        {% if card.description %}
-                            <p>{{ card.description }}</p>
-                        {% endif %}
-                        {% if card.footnote %}
-                            <em>{{ card.footnote }}</em>
-                        {% endif %}
-                        {% if card.cta.text %}
-                            <a href="{{ site.baseurl }}{{ card.cta.link  }}">
-                                <button>{{ card.cta.text  }}</button>
-                            </a>
-                        {% endif %}
-                    </div>
-                {% else %}
-                    <div class="mixed-media-banner-content">
-                        {% if card.title %}
-                            <h3>{{ card.title }}</h3>
-                        {% endif %}
-                        {% if card.description %}
-                            <p>{{ card.description }}</p>
-                        {% endif %}
-                        {% if card.cta.text %}
-                            <a href="{{ site.baseurl }}{{ card.cta.link  }}">
-                                <button>{{ card.cta.text  }}</button>
-                            </a>
-                        {% endif %}
+                {% elsif card.icon %}
+                    <div class="mixed-media-banner-card-icon-wrapper">
+                        <img src="{{ site.baseurl }}{{ card.icon }}" alt="" />
                     </div>
                 {% endif %}
+                <div class="mixed-media-banner-content">
+                    {% if card.title %}
+                        <h3>{{ card.title }}</h3>
+                    {% endif %}
+                    {% if card.description %}
+                        <p>{{ card.description }}</p>
+                    {% endif %}
+                    {% if card.cta.text %}
+                        <a href="{{ site.baseurl }}{{ card.cta.link  }}">
+                            <button>{{ card.cta.text  }}</button>
+                        </a>
+                    {% endif %}
+                </div>
             </div>
         {% endfor %}
         {% if page.mixed-media-banner.footnote %}
             <div class="mixed-media-banner-footnote">
                 <em>{{ page.mixed-media-banner.footnote }}</em>
                 {% if page.mixed-media-banner.cta.text %}
-                    <a href="{{ site.baseurl }}{{ page.mixed-media-banner.cta.link  }}">
-                        <button>{{ page.mixed-media-banner.cta.text  }}</button>
-                    </a>
+
+                    {% if page.mixed-media-banner.cta.link %}
+                        <a href="{{ site.baseurl }}{{ page.mixed-media-banner.cta.link  }}">
+                            <button>{{ page.mixed-media-banner.cta.text  }}</button>
+                        </a>
+                    {% elsif page.mixed-media-banner.cta.email %}
+                        <a href="{{ page.mixed-media-banner.cta.email  }}">
+                            <button>{{ page.mixed-media-banner.cta.text  }}</button>
+                        </a>
+                    {% endif %}
+
                 {% endif %}
             </div>
         {% elsif page.mixed-media-banner.cta.text %}
             <div class="mixed-media-banner-footnote">
-                <a href="{{ site.baseurl }}{{ page.mixed-media-banner.cta.link  }}">
-                    <button>{{ page.mixed-media-banner.cta.text  }}</button>
-                </a>
+
+                {% if page.mixed-media-banner.cta.link %}
+                    <a href="{{ site.baseurl }}{{ page.mixed-media-banner.cta.link  }}">
+                        <button>{{ page.mixed-media-banner.cta.text  }}</button>
+                    </a>
+                {% elsif page.mixed-media-banner.cta.email %}
+                    <a href="{{ page.mixed-media-banner.cta.email  }}">
+                        <button>{{ page.mixed-media-banner.cta.text  }}</button>
+                    </a>
+                {% endif %}
+                
             </div>
         {% endif %}
     </div>

@@ -5,9 +5,10 @@
     display: flex;
     flex-flow: column;
     float: left;
-    height: 100vh;
+    padding: $spacer-lg 0;
     justify-content: center;
     max-height: $max-banner-height;
+    text-align: center;
     width: 100%;
 
     .text-banner-content,
@@ -17,6 +18,9 @@
             padding: $spacer-sm;
             width: 100%;
         }
+    }
+    h2 {
+        margin: 0 0 1em 0;
     }
     h3, p {
         max-width: $content-container-max-width;

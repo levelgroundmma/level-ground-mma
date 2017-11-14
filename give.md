@@ -1,7 +1,7 @@
 ---
 layout: give
 title: Give
-permalink: /give/
+permalink: /give
 hero-banner:
     media:
         video: 

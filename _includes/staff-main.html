@@ -1,5 +1,6 @@
 <section class="staff">
-    {% for person in site.staff %}
+    {% assign sortedStaff = site.staff | sort: 'order' %}
+    {% for person in sortedStaff %}
     <div class="staff-banner">
             {% if person.image %}
             <div class="staff-banner-image-wrapper">
@@ -10,11 +11,16 @@
             {% endif %}
         </div>
         <div class="staff-banner-content">
+            {% if person.email %}
             <h3>{{ person.name }}
                 <a href="mailto:{{ person.email }}" title="email of {{ person.name }}">
                     <i class="fa fa-envelope-o" aria-hidden="true"></i>
                 </a>
             </h3>
+            {% else %}
+            <h3>{{ person.name }}</h3>
+            {% endif %}
+
             {% if person.position %}
                 <h4>{{ person.position }}</h4>
             {% endif %}

@@ -1,7 +1,7 @@
 ---
 layout: gym
 title: Gym
-permalink: /gym/
+permalink: /gym
 hero-banner:
     media:
         video: 
@@ -38,5 +38,7 @@ lists:
           description: Free (participation in Success Tracks encouraged)
         - title: Adults
           description: "Community Membership: $30/month for residents of Dorchester, Roxbury, and Mattapan"
+        - title: 
+          description: "Standard Membership: $50-$75/month recommended (pay what you can)"
       footnote:   
 ---

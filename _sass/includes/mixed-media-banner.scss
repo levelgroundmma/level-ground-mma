@@ -1,10 +1,11 @@
 .mixed-media-banner {
-    align-items: center;
+    align-items: flex-start;
     display: flex;
     float: left;
     justify-content: center;
-    max-height: 768px;
+    max-height: 868px;
     overflow: hidden;
+    padding-top: 100px;
     position: relative;
     width: 100%;
     &:not(.white-bg-container) {
@@ -14,6 +15,7 @@
     }
     @media only screen and (max-width: $max-tablet-width) {
         max-height: none;
+        //align-items: flex-start;
     }
 
     .mixed-media-banner-bg-image {
@@ -31,7 +33,7 @@
         }
     }
     .mixed-media-banner-cards {
-        align-items: center;
+        align-items: flex-start;
         display: flex;
         flex-flow: wrap;
         float: left;
@@ -59,11 +61,11 @@
             width: 100%;
         }
 
-        img {
-            filter: grayscale(100%);
-            height: 30vh;
-            width: auto;
-        }
+        // img {
+        //     filter: grayscale(100%);
+        //     height: 30vh;
+        //     width: auto;
+        // }
     }
     .mixed-media-banner-card-image-wrapper {
         max-height: 220px;
@@ -75,9 +77,22 @@
             width: 100%;
         }
     }
+    .mixed-media-banner-card-icon-wrapper {
+        background-color: $color-primary;
+        border-radius: 50%;
+        height: 100px;
+        width: 100px;
+        left: 0;
+        right: 0;
+        margin: 1em auto;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
     .mixed-media-banner-content {
         background: $color-white;
-        min-height: 340px;
+        // min-height: 340px;
         padding: $spacer-sm;
         position: relative;
         width: 100%;
@@ -91,8 +106,8 @@
         }
 
         button {
-            bottom: $spacer-sm;
-            position: absolute;
+            // bottom: $spacer-sm;
+            // position: absolute;
         }
     }
     .mixed-media-banner-footnote {
