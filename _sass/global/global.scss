@@ -21,11 +21,15 @@ input.donate-button,
 button {
     background-color: $color-primary;
     border: none;
+    cursor: pointer;
     color: $color-white;
     min-width: 140px;
     @include box-shadow($box-shadow1...);
     padding: $padding-button;
     text-transform: uppercase;
+    &:focus, &:visited {
+        outline: none;
+    }
 }
 
 .global-row-banner {
@@ -57,3 +61,10 @@ button {
 .white-bg {
     background-color: $color-white;
 }
+
+// p, h1, h2, h3, h4, h5, h6, div, 
+// blockquote, section, figure, article, aside {
+//     margin: 0;
+//     padding: 0;
+//     vertical-align: baseline;
+// }

@@ -1,0 +1,80 @@
+.carousel {
+    position: relative;
+    display: flex;
+    flex-flow: column;
+    margin: 0 auto;
+    max-width: 1024px;
+    overflow: hidden;
+    width: 100%;
+    
+}
+.carousel-indicators {
+    margin: $spacer-sm auto;
+    left: 0;
+    right: 0;
+    .fa {
+        cursor: pointer;
+        color: $color-grey;
+    }
+}
+.carousel-indicator {
+    border: 1px solid $color-grey;
+    border-radius: 50%;
+    cursor: pointer;
+    display: inline-block;
+    height: 10px;
+    margin: 1px;
+    width: 10px;
+    &.active {
+        background-color: $color-primary;  
+        border: 1px solid $color-primary;  
+    }
+}
+.carousel-container {
+    display: flex;
+    background-color: $color-grey;
+    @include box-shadow($box-shadow1...);
+    color: #fff;
+    max-width: $max-row-width;
+    margin: $spacer-sm auto;
+    overflow: hidden;
+    width: 100%;
+    @media only screen and (max-width: $max-mobile-width) {
+        width: calc(100% - #{$spacer-sm * 2});
+    }
+}
+
+.carousel-item {
+    flex: 1 0 100%;
+    transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+}
+.carousel-image-wrapper {
+    align-items: center;
+    display: flex;
+    float: left;
+    height: 480px;
+    justify-content: center;
+    overflow: hidden;
+    width: calc(100% / 2);
+    @media only screen and (max-width: $max-mobile-width) {
+        width: 100%;
+    }
+    &:active {
+
+    }
+    img {
+        height: 100%;
+        object-fit: cover;
+        width: 100%;
+    }
+}
+.carousel-content {
+    height: 480px;
+    float: left;
+    padding: 2em;
+    width: calc( (100% / 2) );
+    @media only screen and (max-width: $max-mobile-width) {
+        height: auto;
+        width: 100%;
+    }
+}

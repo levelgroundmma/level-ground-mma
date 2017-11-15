@@ -7,11 +7,9 @@
     z-index: $header-nav-z;
     .header-compact-nav {
         display: flex;
-        // flex-flow
         justify-content: center;
         margin: 0 auto;
-        max-width: 1000px;
-        //overflow: hidden;
+        max-width: $max-row-width;
         text-align: center;
         box-shadow: $box-shadow2;
     }
@@ -38,9 +36,20 @@
         text-align: center;
         text-decoration: none;
         width: 100%;
+        &:hover {
+            background-color: $color-grey;
+            color: $color-white;
+        }
+        &.active {
+            border-top: 2px solid $color-primary;
+            line-height: 58px;
+        }
         &:last-of-type {
             background-color: $color-primary;
             color: $color-white;
+            &:hover {
+                background-color: $color-grey;
+            }
         }
         @media only screen and (max-width: $max-mobile-width) {
             display: none;
