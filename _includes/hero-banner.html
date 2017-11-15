@@ -28,12 +28,29 @@
             
         {% endif %}
 
-        {% if page.hero-banner.cta.text %}
+        {% if page.hero-banner.video-modal.video-id %}
+
+        {% include video-modal-text.html video-id=page.hero-banner.video-modal.video-id %}
+
+        {% elsif page.hero-banner.cta.text %}
+
+            {% if page.hero-banner.cta.link %}
             <a href="{{ site.baseurl }}{{ page.hero-banner.cta.link  }}">
                 <button>{{ page.hero-banner.cta.text  }}</button>
             </a>
+            {% elsif page.hero-banner.cta.email %}
+            <a href="mailto:{{ page.hero-banner.cta.email  }}">
+                <button>{{ page.hero-banner.cta.text  }}</button>
+            </a>
+            {% endif %}
+
         {% else %}
             
         {% endif %}
     </div>
 </section>
+{% if page.hero-banner.video-modal.video-id %}
+
+        {% include video-modal.html video-id=page.hero-banner.video-modal.video-id %}
+
+{% endif %}

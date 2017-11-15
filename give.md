@@ -8,7 +8,11 @@ hero-banner:
         image:
     title: Give
     description: 
+    video-modal:
+        text:
+        video-id: 
     cta:
         text: 
-        link:  
+        link: 
+        email: 
 ---

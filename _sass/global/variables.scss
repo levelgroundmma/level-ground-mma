@@ -45,9 +45,10 @@ $max-row-width: 1024px;
 $max-banner-height: 540px;
 
 // z-indices
+$video-modal-z: 10000;
 $header-nav-z: 9999;
-$bg-overlay-z: 1;
 $cards-z: 2;
+$bg-overlay-z: 1;
 
 // Animations
 @keyframes slide-fade-in {

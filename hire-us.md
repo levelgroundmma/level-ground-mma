@@ -8,16 +8,20 @@ hero-banner:
         image: /assets/image/classes-hero.jpg
     title: We Come To You
     description: Host a Level Ground class at your workplace or school.  We provide invigorating workshops that will leave your group empowered and connected to one another. 
+    video-modal:
+        text:
+        video-id: CPBzwBuMOWM
     cta:
         text: 
         link:  
+        email:
 mixed-media-banner:
     background-image:
     footnote: 
     cta:
         text: Book A Class
         link: 
-        email: mailto:ali@levelgroundmma.org
+        email: ali@levelgroundmma.org
     cards:
         - image:
           icon: /assets/image/boxing_icon_ko.png
@@ -34,6 +38,7 @@ mixed-media-banner:
           cta:
             text:
             link:
+            email: 
           footnote: "*Women’s-only option available"
 text-cta-banner:
     title: Want to kick it up a notch?
@@ -41,5 +46,5 @@ text-cta-banner:
     cta:
         text: Book A Class
         link: 
-        email: mailto:ali@levelgroundmma.org
+        email: ali@levelgroundmma.org
 ---

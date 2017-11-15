@@ -8,7 +8,7 @@ mixed-media-banner:
     cta:
         text: Get In Touch
         link: 
-        email: mailto:ali@levelgroundmma.org
+        email: ali@levelgroundmma.org
     cards:
         - image: /assets/image/workforce-development-card-image.jpg
           title: Workforce Development
@@ -16,6 +16,7 @@ mixed-media-banner:
           cta:
             text: 
             link: 
+            email:
           footnote:   
         - image: /assets/image/college-access-card-image.jpg
           title: College Access
@@ -23,6 +24,7 @@ mixed-media-banner:
           cta:
             text: 
             link: 
+            email:
           footnote:  
 success-stories:
     - name: Julio
@@ -40,5 +42,5 @@ text-cta-banner:
     cta:
         text: Get In Touch
         link: 
-        email: mailto:ali@levelgroundmma.org
+        email: ali@levelgroundmma.org
 ---

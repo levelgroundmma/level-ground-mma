@@ -8,9 +8,13 @@ hero-banner:
         image: /assets/image/gym-hero.jpg
     title: In Struggle There's Growth
     description: 
+    video-modal:
+        text:
+        video-id: 
     cta:
         text: 
         link: 
+        email:
 row-banner:
     image: /assets/image/gym-row.jpg
     title: Our Gym
@@ -22,6 +26,7 @@ text-cta-banner:
     cta:
         text: View Tracks
         link: /success-tracks
+        email:
 lists:
     - title: Class Schedule
       bullets:

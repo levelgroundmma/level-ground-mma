@@ -8,7 +8,11 @@ hero-banner:
         image:
     title: News
     description: 
+    video-modal:
+        text:
+        video-id: 
     cta:
         text: 
         link:  
+        email:
 ---

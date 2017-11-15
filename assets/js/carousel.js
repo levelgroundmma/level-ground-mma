@@ -1,23 +1,30 @@
 (function() {
     // variables
-    var carouselIndicator = document.getElementsByClassName("carousel-indicator");
-    var carouselItem = document.getElementsByClassName("carousel-item");
-    var mqMobile = window.matchMedia( "(max-width: 769px)" );
-    var mqTablet = window.matchMedia( "(max-width: 1024px)" );
-    var isMobile = false;
+    let carouselIndicator = document.getElementsByClassName("carousel-indicator");
+    let carouselItem = document.getElementsByClassName("carousel-item");
+    let mqMobile = window.matchMedia( "(max-width: 769px)" );
+    let mqTablet = window.matchMedia( "(max-width: 1024px)" );
+    let isMobile = false;
     let multiplier = 100;
 
     // event listeners
-    Array.from(carouselIndicator).forEach(function(element) {
-        element.addEventListener('click', carousel);
-    });
 
-    document.getElementById("carousel-slide-left").onclick = function() {
-        moveLeft()
-    }
-
-    document.getElementById("carousel-slide-right").onclick = function() {
-        moveRight()
+    if (carouselIndicator.length) {
+        // carousel exists on this page
+        Array.from(carouselIndicator).forEach(function(element) {
+            element.addEventListener('click', carousel);
+        });
+    
+        document.getElementById("carousel-slide-left").onclick = function() {
+            moveLeft()
+        }
+    
+        document.getElementById("carousel-slide-right").onclick = function() {
+            moveRight()
+        }
+    } else {
+        // do nothing
+        // console.log("this page does not have a carousel on it")
     }
 
     //window.onresize = checkScreenWidth;
@@ -46,7 +53,7 @@
     
         let currentIdx = 0;
         let idx = 0;
-        for (var i = 0; i < Array.from(carouselIndicator).length; i++) {
+        for (let i = 0; i < Array.from(carouselIndicator).length; i++) {
             if (Array.from(carouselIndicator)[i].classList.contains("active")) {
                 currentIdx = i;
             }
@@ -74,7 +81,7 @@
     function moveRight() {
         let currentIdx = 0;
         let idx = 0;
-        for (var i = 0; i < Array.from(carouselIndicator).length; i++) {
+        for (let i = 0; i < Array.from(carouselIndicator).length; i++) {
             if (Array.from(carouselIndicator)[i].classList.contains("active")) {
                 currentIdx = i;
             }

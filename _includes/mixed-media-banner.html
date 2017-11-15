@@ -26,9 +26,17 @@
                         <p>{{ card.description }}</p>
                     {% endif %}
                     {% if card.cta.text %}
+    
+                        {% if card.cta.link %}
                         <a href="{{ site.baseurl }}{{ card.cta.link  }}">
                             <button>{{ card.cta.text  }}</button>
                         </a>
+                        {% elsif card.cta.email %}
+                        <a href="mailto:{{ card.cta.email  }}">
+                            <button>{{ card.cta.text  }}</button>
+                        </a>
+                        {% endif %}
+
                     {% endif %}
                 </div>
             </div>
@@ -43,7 +51,7 @@
                             <button>{{ page.mixed-media-banner.cta.text  }}</button>
                         </a>
                     {% elsif page.mixed-media-banner.cta.email %}
-                        <a href="{{ page.mixed-media-banner.cta.email  }}">
+                        <a href="mailto:{{ page.mixed-media-banner.cta.email  }}">
                             <button>{{ page.mixed-media-banner.cta.text  }}</button>
                         </a>
                     {% endif %}

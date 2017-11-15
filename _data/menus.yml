@@ -25,11 +25,11 @@ header-logo:
     logo-image: "/assets/image/lg_logo_white.png"
 
 social-media:
-  - url: http://www.facebook.com
+  - url: https://www.facebook.com/LevelGroundMMA/
     title: facebook
     identifier: facebook
     icon: fa-facebook-square
-  - url: http://www.twitter.com
+  - url: https://twitter.com/levelgroundmma
     title: twitter
     identifier: twitter
     icon: fa-twitter-square
