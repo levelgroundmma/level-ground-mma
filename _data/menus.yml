@@ -39,21 +39,21 @@ social-media:
     icon: fa-envelope-o
 
 site-map:
-  - url: /hire-us
-    title: Hire Us
-    identifier: hire-us
   - url: /gym
     title: Gym
     identifier: gym
-  - url: /give
-    title: Give
-    identifier: give
-  - url: /staff
-    title: Staff
-    identifier: staff
+  - url: /hire-us
+    title: Hire Us
+    identifier: hire-us
   - url: /success-tracks
     title: Success Tracks
     identifier: success-tracks
+  - url: /staff
+    title: Staff
+    identifier: staff
   - url: /news
     title: News
     identifier: news
+  - url: /give
+    title: Give
+    identifier: give

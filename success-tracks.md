@@ -11,6 +11,7 @@ mixed-media-banner:
         email: ali@levelgroundmma.org
     cards:
         - image: /assets/image/workforce-development-card-image.jpg
+          icon:
           title: Workforce Development
           description: Our Student Trainer program provides a career pathway as a Fitness Professional, particularly as gym managers, personal trainers, and fitness instructors.  Student Trainers learn to train clients, run fitness classes, and have the opportunity to gain nationally-recognized credentials by the National Academy of Sports Medicine.  LG helps youth transition to internships and jobs with Boston-based gyms.  Interested candidates must undergo an interview and selection process.
           cta:
@@ -19,6 +20,7 @@ mixed-media-banner:
             email:
           footnote:   
         - image: /assets/image/college-access-card-image.jpg
+          icon:
           title: College Access
           description: LG provides tutoring/assistance with college applications, and works with college partners to help students achieve a 4-year or technical degree.  Earn free training by participating in our tutoring program before athletic training, fulfilling college preparation requirements, and demonstrating an overall commitment to grow in academic excellence.
           cta:

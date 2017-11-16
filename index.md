@@ -31,6 +31,7 @@ mixed-media-banner:
         email:
     cards:
         - image: /assets/image/landing-card-visit-the-gym.jpg
+          icon:
           title: Visit the Training Center
           description: Check out our Martial Arts and Yoga classes.  Or, sign up for personal training with one of our Student Trainers. 
           cta:
@@ -39,6 +40,7 @@ mixed-media-banner:
             email:
           footnote:   
         - image: /assets/image/landing-card-we-come-to-you.jpg
+          icon:
           title: We Come to You
           description: Host a LG Boxing Bootcamp or Self Defense session for your company or group onsite. 
           cta:
