@@ -34,3 +34,6 @@
 - name: My Brother’s Keeper
   image: "/assets/image/logos/mbk-logo.jpg"
   website: http://www.mybrotherskeeper.org/
+- name: State Street
+  image: "/assets/image/logos/state-street-logo.jpg"
+  website: http://www.statestreet.com/

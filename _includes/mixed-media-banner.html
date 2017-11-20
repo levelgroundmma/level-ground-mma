@@ -25,6 +25,11 @@
                     {% if card.description %}
                         <p>{{ card.description }}</p>
                     {% endif %}
+                    {% if card.footnote %}
+                    
+                        <em class="mixed-media-banner-card-footnote">{{ card.footnote }}</em>
+                    
+                    {% endif %}
                     {% if card.cta.text %}
     
                         {% if card.cta.link %}

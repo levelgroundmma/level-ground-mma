@@ -1,10 +1,11 @@
 .mixed-media-banner {
     align-items: center;
     display: flex;
-    float: left;
+    // float: left;
     justify-content: center;
     // max-height: 768px;
     overflow: hidden;
+    padding: $spacer-sm 0;
     position: relative;
     width: 100%;
     &:not(.white-bg-container) {
@@ -31,6 +32,7 @@
     height: 100%;
     object-position: center;
     object-fit: cover;
+    position: absolute;
     @media only screen and (max-width: $max-tablet-width) {
         position: absolute;
     }
@@ -50,7 +52,7 @@
     justify-content: space-between;
     margin: 0 auto;
     max-width: $max-small-desktop-width;
-    position: absolute;
+    // position: absolute;
     width: 100%;
     z-index: $cards-z;
     @media only screen and (max-width: $max-tablet-width) {
@@ -106,6 +108,7 @@
 }
 .mixed-media-banner-content {
     background: $color-white;
+    min-height: 360px;
     padding: $spacer-sm;
     position: relative;
     width: 100%;
@@ -124,6 +127,10 @@
     p {
         margin: 0;
     }
+    a {
+        bottom: 2em;
+        position: absolute;
+    }
 }
 .mixed-media-banner-footnote {
     margin-bottom: $spacer-md;
@@ -135,4 +142,9 @@
         margin: $spacer-xs auto;
         width: 100%;
     }
+}
+
+.mixed-media-banner-card-footnote {
+    display: block;
+    margin-top: $spacer-xs;
 }

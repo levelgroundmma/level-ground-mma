@@ -33,7 +33,7 @@ mixed-media-banner:
           footnote: "*Kickboxing option available."
         - image:
           icon: /assets/image/fist_icon_ko.png
-          title: We Come to You
+          title: Self-Defense
           description: Learn to how to manage a variety of common attack scenarios!  Our instructors lay down a foundation of defensive techniques and counter attacks that build off of one another so that participants are empowered to take control of any situation.
           cta:
             text:
