@@ -3,7 +3,7 @@
         {% for success in include.data %}
         <div {% if forloop.index0 == 0 %} class="carousel-item active" {% else %} class="carousel-item" {% endif %}>
             <div class="carousel-image-wrapper">
-                <img src="{{ site.baseurl }}/{{ success.image }}" alt />
+                <img src="{{ site.baseurl }}{{ success.image }}" alt />
             </div>
             <div class="carousel-content">
                 <h3>{{ success.name }}</h3>
