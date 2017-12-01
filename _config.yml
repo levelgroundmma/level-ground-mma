@@ -41,7 +41,8 @@ collections:
   posts:
     output: true
     permalink: /news/:title/
-
+    
+permalink: /:categories/:title/
 
 # Site Defaults
 default_image: /assets/image/landing-hero.jpg
