@@ -28,6 +28,7 @@ sass:
   style: compressed
 
 # Build settings
+permalink: /:categories/:title/
 markdown: kramdown
 theme: minima
 plugins:
@@ -41,8 +42,6 @@ collections:
   posts:
     output: true
     permalink: /news/:title/
-    
-permalink: /:categories/:title/
 
 # Site Defaults
 default_image: /assets/image/landing-hero.jpg
