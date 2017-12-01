@@ -19,15 +19,16 @@ description: >- # this means to ignore newlines until "baseurl:"
   At Level Ground, we value resilience, perseverance, community, and opportunity. 
   Our Mixed Martial Arts, Jiu Jitsu, Kickboxing, and Yoga offerings empower members of 
   all ages to embrace a healthy lifestyle while enjoying connection to a supportive, family-oriented community.
-url: "http://muigaiunaka.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/level-ground-mma" # the subpath of your site, e.g. /blog
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://levelgroundmma.org" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: levelgroundmma
+github_username:  levelgroundmma
 
 sass:
   style: compressed
 
 # Build settings
+permalink: /:categories/:title/
 markdown: kramdown
 theme: minima
 plugins:
@@ -41,7 +42,6 @@ collections:
   posts:
     output: true
     permalink: /news/:title/
-
 
 # Site Defaults
 default_image: /assets/image/landing-hero.jpg
