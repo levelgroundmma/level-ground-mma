@@ -3,6 +3,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="lgmma-favicon" content="{{ site.baseurl }}/assets/image/favicon.ico">
+    {% if page.url == "/404.html" %}
+        <meta http-equiv="refresh" content="0; url=/">
+    {% elsif page.url %}
+    
+    {% else %}
+        <meta http-equiv="refresh" content="0; url=/">
+    {% endif %}
     <!-- stylesheets -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald|Roboto">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">

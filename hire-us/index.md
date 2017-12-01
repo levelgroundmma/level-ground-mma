@@ -1,7 +1,6 @@
 ---
 layout: hire-us
 title: Hire Us
-permalink: "/hire-us"
 hero-banner:
   media:
     video: "/assets/video/landing.mp4"
