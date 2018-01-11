@@ -39,11 +39,11 @@ lists:
     description: ''
   - title: Open gym hours
     description: Monday, Tuesday, and Thursdays 4 pm - 10 pm
-  - title: Mondays
+  - title: Monday
     description: 6 pm Mixed Martial Arts
-  - title: Tuedays
+  - title: Tuesday
     description: 5:30 pm Yoga, 7 pm Brazilian Jiu Jitsu
-  - title: Thursdays
+  - title: Thursday
     description: 7 pm Muay Thai Kickboxing, 8 pm No Gi Jiu Jitsu
   footnote: All skill levels welcome.
 - title: Pricing
