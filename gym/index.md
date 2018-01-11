@@ -35,12 +35,16 @@ text-cta-banner:
 lists:
 - title: Class Schedule
   bullets:
-  - title: ''
-    description: 'Mondays: 6 pm Mixed Martial Arts'
-  - title: 
-    description: 'Tuesdays: 5:30 pm Yoga, 7 pm Brazilian Jiu Jitsu'
-  - title: 
-    description: 'Thursdays: 7 pm Muay Thai Kickboxing, 8 pm No Gi Jiu Jitsu'
+  - title: Wednesday and Friday classes coming in March.
+    description: ''
+  - title: Open gym hours
+    description: Monday, Tuesday, and Thursdays 4 pm - 10 pm
+  - title: Mondays
+    description: 6 pm Mixed Martial Arts
+  - title: Tuedays
+    description: 5:30 pm Yoga, 7 pm Brazilian Jiu Jitsu
+  - title: Thursdays
+    description: 7 pm Muay Thai Kickboxing, 8 pm No Gi Jiu Jitsu
   footnote: All skill levels welcome.
 - title: Pricing
   bullets:
