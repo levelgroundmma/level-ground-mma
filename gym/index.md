@@ -45,9 +45,9 @@ lists:
     of all skill levels. '
 - title: Pricing
   bullets:
-  - title: ''
-    description: Prices subject to increase in March 2018.  Sign up today to lock
-      in your rate forever.
+  - title: Prices subject to increase in March 2018.  Sign up today to lock in your
+      rate forever.
+    description: ''
   - title: Youth under 22
     description: Free (participation in Success Tracks encouraged)
   - title: Adults
@@ -55,5 +55,7 @@ lists:
       and Mattapan'
   - title: 
     description: 'Standard Membership: $50-$75/month recommended (pay what you can)'
+  - title: ''
+    description: 'Drop in: $5/class'
   footnote: 
 ---
