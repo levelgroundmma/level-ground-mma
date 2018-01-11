@@ -57,5 +57,7 @@ lists:
     description: 'Standard Membership: $50-$75/month recommended (pay what you can)'
   - title: ''
     description: 'Drop in: $5/class'
+  - title: Personal Training
+    description: As low as $25/session
   footnote: 
 ---
