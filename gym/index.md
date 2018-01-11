@@ -45,6 +45,9 @@ lists:
     of all skill levels. '
 - title: Pricing
   bullets:
+  - title: ''
+    description: Prices subject to increase in March 2018.  Sign up today to lock
+      in your rate forever.
   - title: Youth under 22
     description: Free (participation in Success Tracks encouraged)
   - title: Adults
