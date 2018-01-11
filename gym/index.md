@@ -41,8 +41,7 @@ lists:
     description: 'Tuesdays: 5:30 pm Yoga, 7 pm Brazilian Jiu Jitsu'
   - title: 
     description: 'Thursdays: 7 pm Muay Thai Kickboxing, 8 pm No Gi Jiu Jitsu'
-  footnote: 'We offer a diverse set of classes suited for Martial Arts and Yoga practitioners
-    of all skill levels. '
+  footnote: All skill levels welcome.
 - title: Pricing
   bullets:
   - title: Prices subject to increase in March 2018.  Sign up today to lock in your
