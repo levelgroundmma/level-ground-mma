@@ -52,8 +52,6 @@ lists:
     description: Free (participation in Success Tracks encouraged)
   - title: Adult Monthly Membership
     description: As low as $30/month until March 2018
-  - title: 
-    description: 'Standard Membership: $50-$75/month recommended (pay what you can)'
   - title: Adult Drop In
     description: "$5/class"
   - title: Personal Training
