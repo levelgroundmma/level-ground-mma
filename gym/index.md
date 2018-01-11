@@ -56,7 +56,7 @@ lists:
   - title: Adult Monthly Membership
     description: As low as $30/month until March 2018
   - title: Adult Drop In
-    description: "$5/class"
+    description: "$5/class (first class free)"
   - title: Personal Training
     description: As low as $25/session
   footnote: 
