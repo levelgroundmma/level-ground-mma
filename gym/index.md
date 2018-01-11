@@ -2,47 +2,55 @@
 layout: gym
 title: Gym
 hero-banner:
-    media:
-        video: 
-        image: /assets/image/gym-hero.jpg
-    title: In Struggle There's Growth
-    description: 
-    video-modal:
-        text:
-        video-id: 
-    cta:
-        text: 
-        link: 
-        email:
+  media:
+    video: 
+    image: "/assets/image/gym-hero.jpg"
+  title: In Struggle There's Growth
+  description: 
+  video-modal:
+    text: 
+    video-id: 
+  cta:
+    text: 
+    link: 
+    email: 
 row-banner:
-    image: /assets/image/gym-row.jpg
-    title: Our Gym
-    description: Level Ground Mixed Martial Arts empowers and connects our community through health and fitness. Our 6,500 square foot facility includes a dedicated mat space and weight area.  In addition to our classes, we provide Personal Training as well as Private Lessons in Martial Arts, Self-Defense, and Yoga (pricing available upon request.)
+  image: "/assets/image/gym-row.jpg"
+  title: Our Gym
+  description: |-
+    Level Ground empowers and connects our community through health and fitness. Our 6,500 square foot facility includes a dedicated mat space and weight area.  In addition to our classes, we provide Personal Training as well as Private Lessons in Martial Arts, Self-Defense, and Yoga.
 
+    We currently operate on a limited class schedule.  In March 2018, we will offer classes on Wednesday evenings and expand our martial arts and yoga offerings.  Sign up now to lock in your rate forever before prices increase.
 text-cta-banner:
-    title: 22 or under? Check out our Success Tracks.
-    description: If you are 22 or under, you qualify for free training by joining one of our Success Tracks. Our College Access programs includes tutoring and connection to 2 and 4 year university options. Our Student Trainer program trains you to become a fitness professional, and links you to an internship with a Boston-based gym.
-    cta:
-        text: View Tracks
-        link: /success-tracks
-        email:
+  title: 22 or under? Check out our Success Tracks.
+  description: If you are 22 or under, you qualify for free training by joining one
+    of our Success Tracks. Our College Access programs includes tutoring and connection
+    to 2 and 4 year university options. Our Student Trainer program trains you to
+    become a fitness professional, and links you to an internship with a Boston-based
+    gym.
+  cta:
+    text: View Tracks
+    link: "/success-tracks"
+    email: 
 lists:
-    - title: Class Schedule
-      bullets:
-        - title: 
-          description: "Mondays: 6 pm Mixed Martial Arts"
-        - title:
-          description: "Tuesdays: 5:45 pm Yoga, 7 pm Brazilian Jiu Jitsu"
-        - title: 
-          description: "Thursdays: 7 pm Muay Thai + No Gi Jiu Jitsu"
-      footnote: We offer a diverse set of classes suited for Martial Arts and Yoga practitioners of all skill levels. Jiu Jitsu uniforms and all necessary equipment is provided.
-    - title: Pricing 
-      bullets:
-        - title: Youth under 22
-          description: Free (participation in Success Tracks encouraged)
-        - title: Adults
-          description: "Community Membership: $30/month for residents of Dorchester, Roxbury, and Mattapan"
-        - title: 
-          description: "Standard Membership: $50-$75/month recommended (pay what you can)"
-      footnote:   
+- title: Class Schedule
+  bullets:
+  - title: ''
+    description: 'Mondays: 6 pm Mixed Martial Arts'
+  - title: 
+    description: 'Tuesdays: 5:30 pm Yoga, 7 pm Brazilian Jiu Jitsu'
+  - title: 
+    description: 'Thursdays: 7 pm Muay Thai Kickboxing, 8 pm No Gi Jiu Jitsu'
+  footnote: 'We offer a diverse set of classes suited for Martial Arts and Yoga practitioners
+    of all skill levels. '
+- title: Pricing
+  bullets:
+  - title: Youth under 22
+    description: Free (participation in Success Tracks encouraged)
+  - title: Adults
+    description: 'Community Membership: $30/month for residents of Dorchester, Roxbury,
+      and Mattapan'
+  - title: 
+    description: 'Standard Membership: $50-$75/month recommended (pay what you can)'
+  footnote: 
 ---
