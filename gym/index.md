@@ -35,7 +35,7 @@ text-cta-banner:
 lists:
 - title: Class Schedule
   bullets:
-  - title: Wednesday and Friday classes coming in March.
+  - title: Wednesday and Friday classes coming in March 2018.
     description: ''
   - title: Open gym hours
     description: Monday, Tuesday, and Thursdays 4 pm - 10 pm
