@@ -20,7 +20,7 @@ row-banner:
   description: |-
     Level Ground empowers and connects our community through health and fitness. Our 6,500 square foot facility includes a dedicated mat space and weight area.  In addition to our classes, we provide Personal Training and Private Lessons in Martial Arts, Self-Defense, and Yoga.
 
-    In March 2018, we will expand our days of operation and to include additional martial arts, yoga, and calisthenics classes.
+    In March 2018, we will expand our days of operation to include additional martial arts, yoga, and calisthenics classes.
 text-cta-banner:
   title: 22 or under? Check out our Success Tracks.
   description: If you are 22 or under, you qualify for free training by joining one
