@@ -3,7 +3,7 @@ layout: home
 title: Home
 hero-banner:
   media:
-    video: "/assets/video/lg_landing_lq.mp4"
+    video: "/assets/video/fundraising_video_lq.mp4"
     image: 
   title: Where Grit Meets Opportunity
   description: At Level Ground, we value resilience, perseverance, community, and
