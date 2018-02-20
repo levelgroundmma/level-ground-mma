@@ -35,16 +35,18 @@ text-cta-banner:
 lists:
 - title: Class Schedule
   bullets:
-  - title: Wednesday and Friday classes coming in March 2018.
+  - title: Wednesday classes coming in March 2018.
     description: ''
   - title: Open gym hours
     description: Monday, Tuesday, and Thursdays 4 pm - 10 pm
   - title: Monday
-    description: 6 pm Mixed Martial Arts
+    description: 5 pm Striking Fundamentals, 6 pm Mixed Martial Arts
   - title: Tuesday
     description: 5:30 pm Yoga, 7 pm Brazilian Jiu Jitsu
+  - title: Wednesday (starting March 7)
+    description: 7 pm Kickboxing, 8 pm No Gi Jiu Jitsu
   - title: Thursday
-    description: 7 pm Muay Thai Kickboxing, 8 pm No Gi Jiu Jitsu
+    description: 7 pm Kickboxing, 8 pm No Gi Jiu Jitsu
   footnote: All skill levels welcome.
 - title: Pricing
   bullets:
