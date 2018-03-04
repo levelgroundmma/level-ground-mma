@@ -48,13 +48,12 @@ lists:
   footnote: All skill levels welcome.
 - title: Pricing
   bullets:
-  - title: Prices subject to increase in March 2018.  Sign up today to lock in your
-      rate forever.
+  - title: Prices will increase in 3/15/18.  Sign up today to lock in your rate forever.
     description: ''
   - title: Youth under 22
     description: Free (participation in Success Tracks encouraged)
   - title: Adult Monthly Membership
-    description: As low as $30/month until March 2018
+    description: As low as $30/month until March 15, 2018
   - title: Adult Drop In
     description: "$5/class (first class free)"
   - title: Personal Training
