@@ -45,15 +45,18 @@ lists:
     description: 7 pm Kickboxing w/ Bags & Calisthenics, 8 pm No Gi Jiu Jitsu
   - title: Thursday
     description: 6:15 pm Calisthenics, 7 pm Kickboxing, 8 pm No Gi Jiu Jitsu
+  - title: Coming Soon...
+    description: Friday evening classes + Saturday open mat
   footnote: All skill levels welcome.
 - title: Pricing
   bullets:
-  - title: Prices will increase in 3/15/18.  Sign up today to lock in your rate forever.
-    description: ''
-  - title: Youth under 22
+  - title: Prices subject to increase.  Sign up today to lock in your rate forever.
+    description: We will add our Friday and Saturday classes in Spring 2018 at which
+      time prices will increase.
+  - title: Youth under 21 and under
     description: Free (participation in Success Tracks encouraged)
   - title: Adult Monthly Membership
-    description: As low as $30/month until March 15, 2018
+    description: "$45/month (Finances tight?  Email ali@levelgroundmma.org)"
   - title: Adult Drop In
     description: "$5/class (first class free)"
   - title: Personal Training
