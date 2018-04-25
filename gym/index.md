@@ -56,7 +56,7 @@ lists:
   - title: Youth under 21 and under
     description: Free (participation in Success Tracks encouraged)
   - title: Adult Monthly Membership
-    description: "$45/month (Finances tight?  Email ali@levelgroundmma.org)"
+    description: "$45/month (Finances tight?  Email info@levelgroundmma.org)"
   - title: Adult Drop In
     description: "$5/class (first class free)"
   - title: Personal Training
