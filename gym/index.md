@@ -22,8 +22,8 @@ row-banner:
 
     In March 2018, we will expand our days of operation to include additional martial arts, yoga, and calisthenics classes.
 text-cta-banner:
-  title: 22 or under? Check out our Success Tracks.
-  description: If you are 22 or under, you qualify for free training by joining one
+  title: 21 or under? Check out our Success Tracks.
+  description: If you are 21 or under, you qualify for free training by joining one
     of our Success Tracks. Our College Access programs includes tutoring and connection
     to 2 and 4 year university options. Our Student Trainer program trains you to
     become a fitness professional, and links you to an internship with a Boston-based
