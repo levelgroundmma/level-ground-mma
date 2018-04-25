@@ -56,7 +56,7 @@ mixed-media-banner:
     footnote: 
 text-cta-banner:
   title: Ways To Get Involved
-  description: <a href=mailto:ali@levelgroundmma.org target="_blank">Ask</a> about
+  description: <a href=mailto:info@levelgroundmma.org target="_blank">Ask</a> about
     volunteer opportunities with our tutoring, professional development, youth employment,
     and athletic programs.  Level Ground is a tax-exempt nonprofit under the IRS (EIN
     46-3915852) and supported by friends like you.
