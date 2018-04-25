@@ -45,8 +45,8 @@ lists:
     description: 7 pm Kickboxing w/ Bags & Calisthenics, 8 pm No Gi Jiu Jitsu
   - title: Thursday
     description: 6:15 pm Calisthenics, 7 pm Kickboxing, 8 pm No Gi Jiu Jitsu
-  - title: Coming Soon...
-    description: Friday evening classes + Saturday open mat
+  - title: Coming 6/1/2018
+    description: Friday evening Boxing + No Gi Jiu Jitsu classes
   footnote: All skill levels welcome.
 - title: Pricing
   bullets:
