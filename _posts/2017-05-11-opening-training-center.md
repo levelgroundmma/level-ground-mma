@@ -1,20 +1,25 @@
 ---
 layout: post
-author: Ali Fuller
-title: Level Ground MMA Center Opening
-date: 2017-05-11 13:57
+author: Level Ground Mixed Martial Arts
+title: 'Faces of Level Ground series: “Strength”'
+date: 2018-04-26 13:57:00 -0400
 ---
-Because of your support, Level Ground will open our Athletic, Academic, and Job Training Center in January 2017!  The Training Center will also provide free & affordable Personal Training and MMA classes to all Boston residents, no matter income.
+\~\*Moroccan-born. Jiu Jitsu Competitor. 4.0 GPA. Finalist in the Intel International Science Fair. In foster care, but making it through.\*\~
 
-Youth will serve as our Personal Trainers, Fitness Instructors, and Managers!
+S\* arrived to Boston in 2013, not speaking a lick of English. Upon arrival, she faced abuse from a family member and was unable to report it because of the language barrier. S\* attempted to leave the household multiple times, resulting in a battle with homelessness before transitioning to a group home followed by foster care.
 
-Check out this video to see what the Training Center will look like in action!
+We met S\* in August 2017, and since then she has become an integral part of the LG tribe, taking advantage of every opportunity we have set before her. She has worked at our gym for the last 8 months as a Student Trainer, and competed in her first Jiu Jitsu tournament in February. S\* has diligently met with our tutor every week, culminating her into achieving a 4.0 GPA this year. Most recently, she was one of just 2 winners of the State Science Fair. There were 6,000 total participants.
 
-The LG Training Center will include 2,700 sq. feet of mat space for athletics, the Beat 58 Personal Training Studio, and our Academic and Job Training Classroom.
+She says training in Jiu Jitsu makes her feel strong, and that our community has given her a family.
 
-LG aims to raise $35,000 ($20K online, $15K offline) by mid-January. Funds will go towards vital equipment and renovations, as well as wages for our Student Trainers.
-Between our online and offline donations as of 11/22/2016, we have already reached 40% of this goal!
+“I came here without clothes. I was homeless and poor. I was hungry and cold. As a teenager that was hard to pass through but I learned a lot that I can use in my future.
 
-With your help, the LG Training Center will serve hundreds of more young people through our wraparound services. Together, we will also empower our Student Trainers to become fitness leaders in their community and address key health disparities in urban Boston.
+I am starting to be another person now. I live without fear.”
+
+This is what Strength looks like: a Level Ground warrior.
+
+\(Every 2 weeks we will be featuring a member of the Level Ground community that personifies our values. S\* approved this write up, and requested that her picture be used for this purpose.)
+
+![](/uploads/2018/04/26/sara smiling.jpg)
 
 ![](/assets/image/gym-hero.jpg)
