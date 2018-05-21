@@ -1,6 +1,6 @@
 ---
 name: Alexandra Fuller
-position: Founder/Executive Director
+position: Founder/Executive Director, Jiu Jitsu Instructor
 email: ''
 image: "/assets/image/staff/alexandra-fuller.jpg"
 order: 1
