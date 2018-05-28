@@ -52,7 +52,7 @@ lists:
   bullets:
   - title: Prices subject to increase.  Sign up today to lock in your rate forever.
     description: ''
-  - title: Youth under 21 and under
+  - title: Youth 21 and under
     description: Free (participation in Success Tracks encouraged)
   - title: Adult Monthly Membership
     description: "$45/month (Finances tight?  Email info@levelgroundmma.org)"
