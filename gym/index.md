@@ -58,7 +58,7 @@ lists:
   - title: Adult Monthly Membership
     description: "$45/month (Finances tight?  Email info@levelgroundmma.org)"
   - title: Adult Drop In
-    description: "$8/class (first class free)"
+    description: "$8 for one class (first class free), $10 for 2 back-to-back classes"
   - title: Personal Training
     description: As low as $25/session
   footnote: 
