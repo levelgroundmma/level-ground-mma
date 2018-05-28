@@ -42,7 +42,7 @@ lists:
   - title: Tuesday
     description: 5:30 pm Yoga, 7 pm Brazilian Jiu Jitsu
   - title: 'Wednesday '
-    description: 7 pm Kickboxing w/ Bags & Calisthenics, 8 pm No Gi Jiu Jitsu
+    description: 7 pm Boxing, 8 pm Live Striking + Jiu Jitsu Training
   - title: Thursday
     description: 6:15 pm Calisthenics, 7 pm Kickboxing, 8 pm No Gi Jiu Jitsu
   - title: Friday Boxing and Jiu Jitsu classes starting 6/1/2018
