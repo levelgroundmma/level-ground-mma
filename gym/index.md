@@ -51,8 +51,7 @@ lists:
 - title: Pricing
   bullets:
   - title: Prices subject to increase.  Sign up today to lock in your rate forever.
-    description: We will add Friday evening classes on 6/1 at which point prices will
-      increase.
+    description: ''
   - title: Youth under 21 and under
     description: Free (participation in Success Tracks encouraged)
   - title: Adult Monthly Membership
