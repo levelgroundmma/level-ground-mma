@@ -36,7 +36,7 @@ lists:
 - title: Class Schedule
   bullets:
   - title: Open gym hours
-    description: Monday, Tuesday, Wednesday and Thursdays 4 pm - 10 pm
+    description: Monday - Friday 4 pm - 10 pm
   - title: Monday
     description: 5 pm Striking Fundamentals, 6 pm Mixed Martial Arts
   - title: Tuesday
