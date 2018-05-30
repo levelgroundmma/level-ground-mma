@@ -65,3 +65,38 @@ text-cta-banner:
     link: "/give"
     email: 
 ---
+    <!-- Global site tag (gtag.js) - Google AdWords: 803719280 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-803719280"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+    
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+    
+      gtag('config', 'AW-803719280');
+    
+    </script>
+    
+    <script>
+      gtag('config', 'AW-803719280/50b-CPmxp4MBEPCQn_8C', {
+        'phone_conversion_number': '617-514-3753'
+      });
+    </script>
+    
+    <script>
+      window.addEventListener('load', function() {
+        document.querySelector('a[href="/gym"]').onclick = function() {
+          gtag('event', 'conversion', {
+            'send_to': 'AW-803719280/ChrJCPyup4MBEPCQn_8C'
+          });
+        }
+        document.querySelector('a[href="/hire-us"]').onclick = function() {
+          gtag('event', 'conversion', {
+            'send_to': 'AW-803719280/iRPACLryvYMBEPCQn_8C'
+          });
+        }
+      });
+    </script>
+    
