@@ -1,0 +1,24 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Date
+  name: date
+- type: text
+  name: name
+  label: Name
+- type: text
+  name: position
+  label: Position
+- type: file
+  name: image
+  label: Image
+- type: number
+  name: order
+  label: Order
+  description: The order for this Staff Member to be laid out on the page
+  config:
+    min: '0'
+pages:
+- _posts/2018-04-26-faces-of-level-ground-series-strength.md
