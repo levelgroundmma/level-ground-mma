@@ -61,6 +61,7 @@ lists:
     description: ''
   - description: ''
     title: 'Adult Drop-in Rate: $8 for one class, $10 for back-to-back classes'
-  footnote: ADULTS - finances tight? Email ali@levelgroundmma.org and ask about our
-    Community Membership.
+  footnote: |-
+    ADULTS - finances tight? Email ali@levelgroundmma.org and ask about our Community Membership.
+    *Monthly memberships include unlimited classes and full gym access
 ---
