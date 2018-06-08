@@ -41,6 +41,8 @@ lists:
     description: 7 pm Boxing, 8 pm Live Training in No Gi, 8 pm Striking Fundamentals
   - title: Thursday
     description: 6:15 pm Calisthenics, 7 pm Kickboxing, 8 pm No Gi Jiu Jitsu
+  - title: Friday
+    description: 7 pm Kickboxing (Bags + Calisthenics), 8 pm No Gi Jiu Jitsu
   footnote: We offer a diverse set of classes suited for Martial Arts and Yoga practitioners
     of all skill levels. Jiu Jitsu uniforms and all necessary equipment is provided.
 - title: Pricing
