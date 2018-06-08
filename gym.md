@@ -31,8 +31,8 @@ text-cta-banner:
 lists:
 - title: Class Schedule
   bullets:
-  - title: 
-    description: 'Mondays: 6 pm Mixed Martial Arts'
+  - title: 'Open Gym: Monday - Fridays 4 pm - 10 pm'
+    description: ''
   - title: 
     description: 'Tuesdays: 5:45 pm Yoga, 7 pm Brazilian Jiu Jitsu'
   - title: 
