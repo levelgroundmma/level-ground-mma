@@ -49,7 +49,7 @@ lists:
   - title: 'Monthly Membership for youth 19 and under:  Free (participation in Success
       Tracks encouraged)'
     description: ''
-  - title: ''
+  - title: 'ADULTS: FIRST CLASS FREE!'
     description: ''
   - title: 'Monthly Membership for Ages 20 and 21:  $20/month'
     description: ''
