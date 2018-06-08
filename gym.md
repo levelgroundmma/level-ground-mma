@@ -35,8 +35,8 @@ lists:
     description: ''
   - title: Monday
     description: 5 pm Striking Fundamentals, 6 pm Mixed Martial Arts
-  - title: 
-    description: 'Thursdays: 7 pm Muay Thai + No Gi Jiu Jitsu'
+  - title: Tuesday
+    description: 5:30 pm Yoga, 7 pm Brazilian Jiu Jitsu
   footnote: We offer a diverse set of classes suited for Martial Arts and Yoga practitioners
     of all skill levels. Jiu Jitsu uniforms and all necessary equipment is provided.
 - title: Pricing
