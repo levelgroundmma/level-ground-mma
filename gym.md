@@ -33,8 +33,8 @@ lists:
   bullets:
   - title: 'Open Gym: Monday - Fridays 4 pm - 10 pm'
     description: ''
-  - title: 
-    description: 'Tuesdays: 5:45 pm Yoga, 7 pm Brazilian Jiu Jitsu'
+  - title: Monday
+    description: 5 pm Striking Fundamentals, 6 pm Mixed Martial Arts
   - title: 
     description: 'Thursdays: 7 pm Muay Thai + No Gi Jiu Jitsu'
   footnote: We offer a diverse set of classes suited for Martial Arts and Yoga practitioners
