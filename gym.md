@@ -48,7 +48,7 @@ lists:
   bullets:
   - title: Youth 18 and under
     description: Free (participation in Success Tracks encouraged)
-  - title: Ages 20 and 21
+  - title: Monthly Membership for Ages 20 and 21
     description: "$15/month for unlimited classes and gym access"
   - title: Monthly Membership for 22 years+
     description: "$50/month unlimited classes and gym access"
