@@ -56,8 +56,8 @@ lists:
     description: ''
   - title: ''
     description: ''
-  - title: Monthly Membership for 22 years+
-    description: "$50/month unlimited classes and gym access"
+  - title: 'Monthly Membership for 22 years+: $50/month '
+    description: ''
   - title: ''
     description: ''
   - description: ''
