@@ -48,10 +48,16 @@ lists:
   bullets:
   - title: Monthly Membership for youth 18 and under
     description: Free (participation in Success Tracks encouraged)
+  - title: ''
+    description: ''
   - title: Monthly Membership for Ages 20 and 21
     description: "$15/month for unlimited classes and gym access"
+  - title: ''
+    description: ''
   - title: Monthly Membership for 22 years+
     description: "$50/month unlimited classes and gym access"
+  - title: ''
+    description: ''
   - description: ''
     title: 'Adult Drop-in Rate: $8 for one class, $10 for back-to-back classes'
   footnote: 
