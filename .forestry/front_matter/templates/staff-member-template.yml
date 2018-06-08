@@ -20,5 +20,3 @@ fields:
   description: The order for this Staff Member to be laid out on the page
   config:
     min: '0'
-pages:
-- _posts/2018-04-26-faces-of-level-ground-series-strength.md

@@ -14,22 +14,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Level Ground MMA
-email: your-email@example.com
+email: ali@levelgroundmma.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-url: "https://muigaiunaka.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/level-ground-mma" # the subpath of your site, e.g. /blog
-twitter_username: jekyllrb
-github_username:  jekyll
+  At Level Ground, we value resilience, perseverance, community, and opportunity. 
+  Our Mixed Martial Arts, Jiu Jitsu, Kickboxing, and Yoga offerings empower members of 
+  all ages to embrace a healthy lifestyle while enjoying connection to a supportive, family-oriented community.
+url: "http://levelgroundmma.org" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: levelgroundmma
+github_username:  levelgroundmma
 
 sass:
   style: compressed
 
 # Build settings
+permalink: /:categories/:title/
 markdown: kramdown
-theme: minima
+theme:
 plugins:
   - jekyll-feed
 
@@ -41,7 +42,9 @@ collections:
   posts:
     output: true
     permalink: /news/:title/
-
+  pages:
+    output: true 
+    permalink: /:title/
 
 # Site Defaults
 default_image: /assets/image/landing-hero.jpg
@@ -59,3 +62,4 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+

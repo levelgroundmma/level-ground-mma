@@ -2,7 +2,7 @@
 layout: post
 author: Ali Fuller
 title: Level Ground MMA Center Opening
-date: 2017-05-11 13:57
+date: 2017-05-11 00:00:00 +0000
 ---
 Because of your support, Level Ground will open our Athletic, Academic, and Job Training Center in January 2017!  The Training Center will also provide free & affordable Personal Training and MMA classes to all Boston residents, no matter income.
 
