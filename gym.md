@@ -43,14 +43,12 @@ lists:
     description: 6:15 pm Calisthenics, 7 pm Kickboxing, 8 pm No Gi Jiu Jitsu
   - title: Friday
     description: 7 pm Kickboxing (Bags + Calisthenics), 8 pm No Gi Jiu Jitsu
-  footnote: We offer a diverse set of classes suited for Martial Arts and Yoga practitioners
-    of all skill levels. Jiu Jitsu uniforms and all necessary equipment is provided.
+  footnote: ''
 - title: Pricing
   bullets:
-  - title: Youth under 22
+  - title: Youth 18 and under
     description: Free (participation in Success Tracks encouraged)
-  - title: Adults
-    description: 'Community Membership: $30/month for residents of Dorchester, Roxbury,
-      and Mattapan'
+  - title: Ages 20 and 21
+    description: "$15/month for unlimited classes and gym access"
   footnote: 
 ---
