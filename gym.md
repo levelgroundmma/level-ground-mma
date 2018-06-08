@@ -51,8 +51,9 @@ lists:
     description: ''
   - title: ''
     description: ''
-  - title: Monthly Membership for Ages 20 and 21
-    description: "$15/month for unlimited classes and gym access"
+  - title: 'Monthly Membership for Ages 20 and 21:  $15/month for unlimited classes
+      and gym access'
+    description: ''
   - title: ''
     description: ''
   - title: Monthly Membership for 22 years+
