@@ -46,8 +46,9 @@ lists:
   footnote: ''
 - title: Pricing
   bullets:
-  - title: Monthly Membership for youth 18 and under
-    description: Free (participation in Success Tracks encouraged)
+  - title: 'Monthly Membership for youth 18 and under:  Free (participation in Success
+      Tracks encouraged)'
+    description: ''
   - title: ''
     description: ''
   - title: Monthly Membership for Ages 20 and 21
