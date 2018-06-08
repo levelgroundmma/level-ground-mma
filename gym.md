@@ -37,6 +37,8 @@ lists:
     description: 5 pm Striking Fundamentals, 6 pm Mixed Martial Arts
   - title: Tuesday
     description: 5:30 pm Yoga, 7 pm Brazilian Jiu Jitsu
+  - title: Wednesday
+    description: 7 pm Boxing, 8 pm Live Training in No Gi, 8 pm Striking Fundamentals
   footnote: We offer a diverse set of classes suited for Martial Arts and Yoga practitioners
     of all skill levels. Jiu Jitsu uniforms and all necessary equipment is provided.
 - title: Pricing
