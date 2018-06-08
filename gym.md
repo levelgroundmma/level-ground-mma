@@ -52,5 +52,7 @@ lists:
     description: "$15/month for unlimited classes and gym access"
   - title: Monthly Membership for 22 years+
     description: "$50/month unlimited classes and gym access"
+  - description: ''
+    title: 'Adult Drop-in Rate: $8 for one class, $10 for back-to-back classes'
   footnote: 
 ---
