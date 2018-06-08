@@ -2,7 +2,7 @@
 layout: post
 author: Level Ground Mixed Martial Arts
 title: 'Faces of Level Ground series: “Strength”'
-date: 2018-04-26 13:57:00 -0400
+date: 2018-04-26 13:56:00 -0400
 ---
 \~\*Moroccan-born. Jiu Jitsu Competitor. 4.0 GPA. Finalist in the Intel International Science Fair. In foster care, but making it through.\*\~
 
