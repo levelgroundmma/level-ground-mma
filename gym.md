@@ -51,7 +51,7 @@ lists:
     description: ''
   - title: ''
     description: ''
-  - title: 'Monthly Membership for Ages 20 and 21:  $15/month'
+  - title: 'Monthly Membership for Ages 20 and 21:  $20/month'
     description: ''
   - title: ''
     description: ''
