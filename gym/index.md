@@ -52,11 +52,11 @@ lists:
   bullets:
   - title: Prices subject to increase.  Sign up today to lock in your rate forever.
     description: ''
-  - title: 'Youth 19 and under: Free (participation in Success Tracks encouraged)'
+  - title: 'Youth 19 years old and under: Free'
     description: ''
-  - title: '21 and 22 years old Unlimited Membership: $20/month'
+  - title: '21 & 22 years old Unlimited Membership: $20/month'
     description: ''
-  - title: '22+ Unlimited Membership: $50/month'
+  - title: '22+ years old Unlimited Membership: $50/month'
     description: "(Finances tight?  Email ali@levelgroundmma.org and ask about our
       Community Membership)"
   - title: Adult Drop In
