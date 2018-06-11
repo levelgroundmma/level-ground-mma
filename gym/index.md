@@ -52,13 +52,13 @@ lists:
   bullets:
   - title: Prices subject to increase.  Sign up today to lock in your rate forever.
     description: ''
-  - title: Youth 19 and under
-    description: Free (participation in Success Tracks encouraged)
-  - title: 20 and 21 years old
-    description: "$20 monthly unlimited membership"
-  - title: 22+ Adult Monthly Membership
-    description: "$50/month (Finances tight?  Email ali@levelgroundmma.org and ask
-      about our Community Membership)"
+  - title: 'Youth 19 and under: Free (participation in Success Tracks encouraged)'
+    description: ''
+  - title: '20 and 21 years old: $20 monthly unlimited membership'
+    description: ''
+  - title: '22+ Adult Monthly Membership: $50/month'
+    description: "(Finances tight?  Email ali@levelgroundmma.org and ask about our
+      Community Membership)"
   - title: Adult Drop In
     description: "$8 for one class (first class free), $10 for 2 back-to-back classes"
   - title: Personal Training
