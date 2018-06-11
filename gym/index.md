@@ -54,9 +54,9 @@ lists:
     description: ''
   - title: Youth 19 and under
     description: Free (participation in Success Tracks encouraged)
-  - title: ''
-    description: ''
-  - title: Adult Monthly Membership
+  - title: 20 and 21 years old
+    description: "$20 monthly unlimited membership"
+  - title: 22+ Adult Monthly Membership
     description: "$50/month (Finances tight?  Email ali@levelgroundmma.org and ask
       about our Community Membership)"
   - title: Adult Drop In
