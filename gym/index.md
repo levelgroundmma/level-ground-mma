@@ -54,7 +54,7 @@ lists:
     description: ''
   - title: 'Youth 19 years old and under: Free'
     description: ''
-  - title: '21 & 22 years old Unlimited Membership: $20/month'
+  - title: '20 & 21 years old Unlimited Membership: $20/month'
     description: ''
   - title: '22+ years old Unlimited Membership: $50/month'
     description: "(Finances tight?  Email ali@levelgroundmma.org and ask about our
