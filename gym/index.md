@@ -46,7 +46,8 @@ lists:
   - title: Thursday
     description: 6:15 pm Calisthenics, 7 pm Kickboxing, 8 pm No Gi Jiu Jitsu
   - title: Friday
-    description: 7 pm Kickboxing w/ Bags & Calisthenics, 8 pm No Gi Jiu Jitsu
+    description: 5:30 Yoga 7 pm Kickboxing w/ Bags & Calisthenics, 8 pm No Gi Jiu
+      Jitsu
   footnote: All skill levels welcome.
 - title: Pricing
   bullets:
@@ -54,14 +55,15 @@ lists:
     description: ''
   - title: 'Youth 19 years old and under: Free'
     description: ''
-  - title: '20 & 21 years old Unlimited Membership: $20/month'
+  - title: '20 & 21 years old Unlimited Msasembership: $20/month'
     description: ''
   - title: '22+ years old Unlimited Membership: $50/month'
     description: "(Finances tight?  Email ali@levelgroundmma.org and ask about our
-      Community Membership)"
+      $30/month Community Membership)"
   - title: Adult Drop In
     description: "$8 for one class (first class free), $10 for 2 back-to-back classes"
   - title: Personal Training
     description: As low as $25/session
   footnote: 
+
 ---
