@@ -23,9 +23,9 @@ text-banner:
     career opportunities to Boston youth.  Our young people are exposed to a disproportionately
     high level of poverty and crime, and live in neighborhoods that experience a greater
     prevalence of obesity-related illnesses. From assistance with college applications
-    to employment at our gym, access to our community garden, and free athletic training,
-    Level Ground strives to meet the needs of our youth in an authentic and compassionate
-    manner.
+    to employment at our gym, access to our weekly nutrition workshops, and free athletic
+    training, Level Ground strives to meet the needs of our youth in an authentic
+    and compassionate manner.
 mixed-media-banner:
   background-image: "/assets/image/landing-card-visit-the-gym.jpg"
   footnote: 
@@ -64,4 +64,5 @@ text-cta-banner:
     text: Give Today
     link: "/give"
     email: 
+
 ---
