@@ -40,14 +40,14 @@ lists:
   - title: Monday
     description: 6 pm Striking Fundamentals, 7 pm No Gi Jiu Jitsu
   - title: Tuesday
-    description: 5:30 pm Yoga, 7 pm Brazilian Jiu Jitsu
+    description: 5:45 pm Yoga, 7 pm Brazilian Jiu Jitsu
   - title: 'Wednesday '
     description: 6 pm Fierce Females (striking/grappling for self-defense), 7 pm Boxing,
       8 pm Live Striking + Jiu Jitsu Training
   - title: Thursday
     description: 6:15 pm Calisthenics, 7 pm Kickboxing, 8 pm No Gi Jiu Jitsu
   - title: Friday
-    description: 5:30 Yoga 7 pm Kickboxing w/ Bags & Calisthenics, 8 pm No Gi Jiu
+    description: 5:45 Yoga, 7 pm Kickboxing w/ Bags & Calisthenics, 8 pm No Gi Jiu
       Jitsu
   footnote: All skill levels welcome.
 - title: Pricing
