@@ -38,7 +38,7 @@ lists:
   - title: Open gym hours
     description: Monday - Friday 4 pm - 10 pm
   - title: Monday
-    description: 6 pm Striking Fundamentals, 7 pm No Gi Jiu Jitsu
+    description: 6 pm Kickboxing, 7 pm No Gi Jiu Jitsu
   - title: Tuesday
     description: 5:45 pm Yoga, 7 pm Brazilian Jiu Jitsu
   - title: 'Wednesday '
