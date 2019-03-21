@@ -67,5 +67,5 @@ text-cta-banner:
 
 ---
     <style>
-    otk{}
+    otk{ }
     </style>
