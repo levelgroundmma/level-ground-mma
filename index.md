@@ -4,7 +4,7 @@ title: Home
 hero-banner:
   media:
     video: "/assets/video/lg_landing_lq.mp4"
-    image: 
+    image: ''
   title: Where Grit Meets Opportunity
   description: At Level Ground, we value resilience, perseverance, community, and
     opportunity. Our Mixed Martial Arts, Jiu Jitsu, Kickboxing, and Yoga offerings
@@ -66,6 +66,6 @@ text-cta-banner:
     email: 
 
 ---
-    <style>
+<style>
     otk{ }
-    </style>
+</style>
