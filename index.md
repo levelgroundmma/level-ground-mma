@@ -25,7 +25,7 @@ text-banner:
     prevalence of obesity-related illnesses. From assistance with college applications
     to employment at our gym, access to our weekly nutrition workshops, and free athletic
     training, Level Ground strives to meet the needs of our youth in an authentic
-    and compassionate manner.
+    and compassionate manner
 mixed-media-banner:
   background-image: "/assets/image/landing-card-visit-the-gym.jpg"
   footnote: 
