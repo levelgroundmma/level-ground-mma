@@ -1,0 +1,35 @@
+.video-modal-text {
+    color: $color-primary;
+    cursor: pointer;
+}
+.video-modal {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    height: 100vh;
+    width: 100vw;
+    background-color: rgba(0,0,0,0.79);
+    z-index: $video-modal-z
+}
+.video-modal.isOpen {
+    display: flex;
+}
+.video-modal-iframe-container {
+    max-width: $content-container-max-width;
+    max-height: calc( #{ $content-container-max-width } * 9 / 16); // 16:9 aspect ratio
+    height: calc( 100vw * 9 / 16); 
+    width: 100vw;
+    #videoModalIframe {
+        width: 100%;
+        height: 100%;
+    }
+}
+.video-modal-close {
+    color: $color-white;
+    cursor: pointer;
+    font-size: 3em;
+    position: absolute;
+    right: 0.5em;
+    top: 0.5em;
+}

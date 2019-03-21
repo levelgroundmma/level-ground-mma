@@ -1,0 +1,24 @@
+<div class="carousel slide" data-carousel="carousel">
+    <div class="carousel-container">
+        {% for success in include.data %}
+        <div {% if forloop.index0 == 0 %} class="carousel-item active" {% else %} class="carousel-item" {% endif %}>
+            <div class="carousel-image-wrapper">
+                <img src="{{ site.baseurl }}{{ success.image }}" alt />
+            </div>
+            <div class="carousel-content">
+                <h3>{{ success.name }}</h3>
+                <p>{{ success.story }}</p>
+            </div>
+        </div>
+            
+        {% endfor %}
+    </div>
+    <div class="carousel-indicators">
+            <i id="carousel-slide-left" class="fa fa-arrow-left" aria-hidden="true"></i>
+        {% for success in include.data %}
+            <span {% if forloop.index0 == 0 %} class="carousel-indicator active" {% else %} class="carousel-indicator" {% endif %}>
+                </span>
+        {% endfor %}
+        <i id="carousel-slide-right" class="fa fa-arrow-right" aria-hidden="true"></i>
+    </div>
+</div>

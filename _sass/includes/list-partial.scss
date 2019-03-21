@@ -4,10 +4,13 @@
     flex-flow: row wrap;
     float: left;
     justify-content: center;
-    min-height: $max-banner-height;
+    // min-height: $max-banner-height;
     width: 100%;
     .list-partial-container {
         color: $color-white;
+        display: flex;
+        flex-flow: column;
+        // align-self: center;
         float: left;
         max-width: calc(#{$max-row-width} / 2);
         padding: $spacer-sm;
@@ -15,5 +18,16 @@
         @media only screen and (max-width: $max-mobile-width) {
             width: 100%;
         }
+
+        .list-partial-title {
+            margin: 0 0 1em 0;
+        }
+    }
+    .list-partial-bullet-title {
+        font-weight: 600;
+        margin: 0 0 1em 0;
+    }
+    .list-partial-bullet-description {
+        margin: 0 0 1em 0;
     }
 }

@@ -1,0 +1,40 @@
+.logos-banner {
+    border-top: 1px solid $color-light-grey;
+    float: left;
+    position: relative;
+    width: 100%;
+    .logos-banner-container {
+        align-content: center;
+        align-items: center;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        margin: 0 auto;
+        max-width: $max-row-width;
+        padding: $spacer-lg 0;
+        width: 100%;
+        @media only screen and (max-width: $max-mobile-width) {
+            align-content: flex-start;
+            max-height: none;
+        }
+    }
+    .logos-banner-title {
+        width: 100%;
+    }
+    a {
+        filter: grayscale(100%);
+        max-width: calc(100% / 6);
+        padding: $spacer-xs;
+        &:hover {
+            padding: 0.25em
+        }
+        @media only screen and (max-width: $max-mobile-width) {
+            max-width: calc(100% / 3);
+        }
+    }
+    img {
+        height: auto;
+        padding: $spacer-xs;
+        width: 100%;
+    }
+}

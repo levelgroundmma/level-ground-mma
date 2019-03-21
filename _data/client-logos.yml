@@ -1,0 +1,36 @@
+- name: Boston Public Schools
+  image: "/assets/image/logos/bps-logo.png"
+  website: https://www.bostonpublicschools.org/
+- name: TUGG
+  image: "/assets/image/logos/tugg-logo.png"
+  website: http://tugg.org/
+- name: Northeastern University
+  image: "/assets/image/logos/northeastern-logo.png"
+  website: http://www.northeastern.edu
+- name: Mobee
+  image: "/assets/image/logos/mobee-logo.png"
+  website: https://www.getmobee.com/https://www.getmobee.com/
+- name: Jebbit
+  image: "/assets/image/logos/jebbit-logo.png"
+  website: https://www.jebbit.com/
+- name: Velir
+  image: "/assets/image/logos/velir-logo.png"
+  website: https://www.velir.com/
+- name: Converse
+  image: "/assets/image/logos/converse-logo.png"
+  website: https://www.converse.com/
+- name: Boston College
+  image: "/assets/image/logos/boston-college-logo.png"
+  website: https://www.bc.edu/
+- name: Yang’s Martial Arts Association
+  image: "/assets/image/logos/ymaa-logo.png"
+  website: http://www.ymaaboston.com/
+- name: Next Jump
+  image: "/assets/image/logos/nextjump-logo.png"
+  website: http://www.nextjump.com/
+- name: Cambridge Innovation Center
+  image: "/assets/image/logos/cic-logo.png"
+  website: https://cic.com/
+- name: The Lenny Zakim Fund
+  image: "/assets/image/logos/the-lenny-zakim-fund-logo.jpg"
+  website: http://www.thelennyzakimfund.org/home/

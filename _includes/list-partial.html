@@ -2,7 +2,7 @@
     {% for list in page.lists %}
     <div class="list-partial-container">
         {% if list.title %}
-            <h3>{{ list.title }}</h3>
+            <h3 class="list-partial-title">{{ list.title }}</h3>
         {% endif %}
 
         {% for bullet in list.bullets %}

@@ -1,10 +1,11 @@
 .mixed-media-banner {
     align-items: center;
     display: flex;
-    float: left;
+    // float: left;
     justify-content: center;
-    max-height: 768px;
+    // max-height: 768px;
     overflow: hidden;
+    padding: $spacer-sm 0;
     position: relative;
     width: 100%;
     &:not(.white-bg-container) {
@@ -12,98 +13,138 @@
             @include bg-overlay();
         }
     }
+    &.white-bg-container {
+        .mixed-media-banner-bg-image {
+            max-height: 640px;
+        }
+    }
+    &:first-child {
+        align-items: flex-start;
+        padding: 120px 0;
+    }
     @media only screen and (max-width: $max-tablet-width) {
         max-height: none;
     }
-
-    .mixed-media-banner-bg-image {
-        filter: blur(8px) grayscale(100%);
-        width: 100%;
-        @media only screen and (max-width: $max-tablet-width) {
-            position: absolute;
-        }
-        @media only screen and (max-width: $max-mobile-width) { 
-            height: 100%;
-            max-width: none;
-            object-fit: contain;
-            right: 0;
-            width: auto;
-        }
-    }
-    .mixed-media-banner-cards {
-        align-items: center;
-        display: flex;
-        flex-flow: wrap;
-        float: left;
-        justify-content: space-between;
-        margin: 0 auto;
-        max-width: $max-small-desktop-width;
+}
+.mixed-media-banner-bg-image {
+    filter: blur(8px) grayscale(100%);
+    width: 100%;
+    height: 100%;
+    object-position: center;
+    object-fit: cover;
+    position: absolute;
+    @media only screen and (max-width: $max-tablet-width) {
         position: absolute;
-        width: 100%;
-        z-index: $cards-z;
-        @media only screen and (max-width: $max-tablet-width) {
-            position: relative;
-        }
-        @media only screen and (max-width: $max-mobile-width) {
-            flex-flow: column;
-        }
     }
-    .mixed-media-banner-card {
-        @include box-shadow($box-shadow1...);
-        margin: $spacer-sm;
-        transition: all 300ms ease-in-out;
-        width: calc( 50% - (2 * #{$spacer-sm}) );
-        
-        @media only screen and (max-width: $max-mobile-width) {
-            max-width: calc( 100% - (2 * #{$spacer-sm}) );
-            width: 100%;
-        }
-
-        img {
-            filter: grayscale(100%);
-            height: 30vh;
-            width: auto;
-        }
+    @media only screen and (max-width: $max-mobile-width) { 
+        height: 100%;
+        max-width: none;
+        object-fit: contain;
+        right: 0;
+        width: auto;
     }
-    .mixed-media-banner-card-image-wrapper {
-        max-height: 220px;
-        overflow: hidden;
-        width: 100%;
-        img {
-            filter: grayscale(100%);
-            height: auto;
-            width: 100%;
-        }
-    }
-    .mixed-media-banner-content {
-        background: $color-white;
-        min-height: 340px;
-        padding: $spacer-sm;
+}
+.mixed-media-banner-cards {
+    align-items: flex-start;
+    display: flex;
+    flex-flow: wrap;
+    float: left;
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: $max-small-desktop-width;
+    // position: absolute;
+    width: 100%;
+    z-index: $cards-z;
+    @media only screen and (max-width: $max-tablet-width) {
         position: relative;
-        width: 100%;
-        @media only screen and (max-width: $max-mobile-width) {
-            padding: $spacer-sm;
-        }
-
-        h3 {
-            margin-top: 0;
-            margin-bottom: calc( #{$spacer-xs} / 2);
-        }
-
-        button {
-            bottom: $spacer-sm;
-            position: absolute;
-        }
     }
-    .mixed-media-banner-footnote {
-        margin-bottom: $spacer-md;
-        text-align: center;
-        width: 100%;
-        em {
-            color: $color-white;
-            float: left;
-            margin: $spacer-xs auto;
-            width: 100%;
-        }
+    @media only screen and (max-width: $max-mobile-width) {
+        flex-flow: column;
     }
+}
+.mixed-media-banner-card {
+    @include box-shadow($box-shadow1...);
+    margin: $spacer-xs $spacer-sm;
+    transition: all 300ms ease-in-out;
+    width: calc( 50% - (2 * #{$spacer-sm}) );
+    
+    @media only screen and (max-width: $max-mobile-width) {
+        margin: $spacer-sm;
+        max-width: calc( 100% - (2 * #{$spacer-sm}) );
+        width: 100%;
+    }
+
+    // img {
+    //     filter: grayscale(100%);
+    //     height: 30vh;
+    //     width: auto;
+    // }
+}
+.mixed-media-banner-card-image-wrapper {
+    max-height: 220px;
+    overflow: hidden;
+    width: 100%;
+    @media only screen and (max-width: $max-mobile-width) {
+        display: none;
+    }
+    img {
+        filter: grayscale(100%);
+        height: auto;
+        width: 100%;
+    }
+}
+.mixed-media-banner-card-icon-wrapper {
+    background-color: $color-primary;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    left: 0;
+    right: 0;
+    margin: 1em auto;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.mixed-media-banner-content {
+    background: $color-white;
+    min-height: 360px;
+    padding: $spacer-sm;
+    position: relative;
+    width: 100%;
+    @media only screen and (max-width: $max-mobile-width) {
+        padding: $spacer-sm;
+    }
+
+    h3 {
+        margin-top: 0;
+        margin-bottom: calc( #{$spacer-xs} / 2);
+    }
+
+    button {
+        margin-top: 1em;
+    }
+    p {
+        margin: 0;
+    }
+    a {
+        bottom: 2em;
+        position: absolute;
+    }
+}
+.mixed-media-banner-footnote {
+    margin-bottom: $spacer-md;
+    text-align: center;
+    width: 100%;
+    em {
+        color: $color-white;
+        float: left;
+        margin: $spacer-xs auto;
+        width: 100%;
+    }
+}
+
+.mixed-media-banner-card-footnote {
+    display: block;
+    margin-top: $spacer-xs;
 }

@@ -2,12 +2,53 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="lgmma-favicon" content="{{ '/assets/image/favicon.ico' | relative_url }}">
+    <meta name="lgmma-favicon" content="{{ site.baseurl }}/assets/image/favicon.ico">
+    {% if page.url == "/404.html" %}
+        <meta http-equiv="refresh" content="0; url=/">
+    {% elsif page.url %}
+    
+    {% else %}
+        <meta http-equiv="refresh" content="0; url=/">
+    {% endif %}
     <!-- stylesheets -->
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald|Raleway">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald|Roboto">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css">
-    <link rel="stylesheet" href="{{ '/assets/main.css' }}">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/main.css">
     <!-- jekyll-seo-tag -->
-    <!-- <link rel="apple-touch-icon" sizes="57x57" href="{{ '/assets/img/favicon/apple-icon-57x57.png' }}"> -->
+    
+    <!-- Global site tag (gtag.js) - Google AdWords: 803719280 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-803719280"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
+
+  gtag('config', 'AW-803719280');
+
+</script>
+
+<script>
+  gtag('config', 'AW-803719280/50b-CPmxp4MBEPCQn_8C', {
+    'phone_conversion_number': '617-514-3753'
+  });
+</script>
+
+<script>
+  window.addEventListener('load', function() {
+    document.querySelector('a[href="/gym"]').onclick = function() {
+      gtag('event', 'conversion', {
+        'send_to': 'AW-803719280/ChrJCPyup4MBEPCQn_8C'
+      });
+    }
+    document.querySelector('a[href="/hire-us"]').onclick = function() {
+      gtag('event', 'conversion', {
+        'send_to': 'AW-803719280/iRPACLryvYMBEPCQn_8C'
+      });
+    }
+  });
+</script>
 </head>
