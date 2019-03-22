@@ -49,6 +49,8 @@ lists:
   - title: Friday
     description: 5:45 Yoga, 7 pm Kickboxing w/ Bags & Calisthenics, 8 pm No Gi Jiu
       Jitsu
+  - title: Saturday
+    description: '11 am: Yoga (hosted by Hands to Heart Yoga)'
   footnote: All skill levels welcome.
 - title: Pricing
   bullets:
