@@ -41,7 +41,7 @@ lists:
   - title: Monday
     description: 6 pm Kickboxing, 7 pm No Gi Jiu Jitsu
   - title: Tuesday
-    description: 5:45 pm Yoga, 7 pm Brazilian Jiu Jitsu
+    description: 7 pm Brazilian Jiu Jitsu
   - title: 'Wednesday '
     description: 6 pm Fierce Females (striking/grappling/yoga/high intensity training,
       with self-defense application), 7 pm Boxing, 8 pm Boxing (with bags), 8 pm No
