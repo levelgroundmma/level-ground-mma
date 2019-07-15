@@ -36,7 +36,8 @@ lists:
 - title: Class Schedule
   bullets:
   - title: Open gym hours
-    description: Monday - Friday 4 pm - 10 pm
+    description: 'Monday, Wednesday, Thursday, Friday 4 pm - 10 pm; Tuesday: 6 - 10
+      pm'
   - title: Monday
     description: 6 pm Kickboxing, 7 pm No Gi Jiu Jitsu
   - title: Tuesday
