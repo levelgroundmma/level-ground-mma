@@ -35,7 +35,7 @@ text-cta-banner:
 lists:
 - title: Class Schedule
   bullets:
-  - title: Open gym hours
+  - title: Summer open gym hours
     description: 'Monday, Wednesday, Thursday, Friday 4 pm - 10 pm; Tuesday: 6 - 10
       pm'
   - title: Monday
@@ -51,8 +51,6 @@ lists:
   - title: Friday
     description: 5:45 Yoga, 7 pm Kickboxing w/ Bags & Calisthenics, 8 pm No Gi Jiu
       Jitsu
-  - title: Saturday
-    description: '11 am: Yoga (hosted by Hands to Heart Yoga)'
   footnote: All skill levels welcome.
 - title: Pricing
   bullets:
