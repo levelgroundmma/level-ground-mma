@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Level Ground Mixed Martial Arts
+author: Honoring Coach LeRoi Rodriguez
 title: 'Faces of Level Ground series: “Strength”'
 date: 2018-04-26T17:56:00.000+00:00
 
