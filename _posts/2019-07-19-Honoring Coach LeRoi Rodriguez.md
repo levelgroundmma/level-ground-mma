@@ -3,7 +3,7 @@ date: July 19, 2019
 name: Honoring Coach LeRoi Rodriguez
 position: ''
 image: "/uploads/2019/07/19/LeRoi 1.jpg"
-order: 
+order: 2
 
 ---
 We are heartbroken to write of the recent passing of our beloved mentor, teacher, and friend, LeRoi Rodriguez. Words cannot do justice to the impact that he made in the lives of myself, Hudson, and countless youth and adults at Level Ground Mixed Martial Arts. I write this on our 6th anniversary (to the day), and do so through tears of sadness and gratitude as we would not have made it this far without LeRoi.
