@@ -20,3 +20,5 @@ fields:
   description: The order for this Staff Member to be laid out on the page
   config:
     min: '0'
+pages:
+- _posts/_posts/Honoring Coach LeRoi Rodriguez.md
