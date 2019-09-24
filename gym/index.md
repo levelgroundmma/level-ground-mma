@@ -35,9 +35,8 @@ text-cta-banner:
 lists:
 - title: Class Schedule
   bullets:
-  - title: Summer open gym hours
-    description: 'Monday, Wednesday, Thursday, Friday 4 pm - 10 pm; Tuesday: 6 - 10
-      pm'
+  - title: Gym opens at 4 pm Monday - Friday
+    description: ''
   - title: Monday
     description: 6 pm Kickboxing, 7 pm No Gi Jiu Jitsu
   - title: Tuesday
