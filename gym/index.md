@@ -48,8 +48,8 @@ lists:
   - title: Thursday
     description: 6:15 pm Calisthenics, 7 pm Kickboxing, 8 pm No Gi Jiu Jitsu
   - title: Friday
-    description: 5:45 Yoga, 7 pm Kickboxing w/ Bags & Calisthenics, 8 pm No Gi Jiu
-      Jitsu
+    description: 5:45 Yoga(CANCELLED 10/4/19), 7 pm Kickboxing w/ Bags & Calisthenics,
+      8 pm No Gi Jiu Jitsu
   footnote: All skill levels welcome.
 - title: Pricing
   bullets:
