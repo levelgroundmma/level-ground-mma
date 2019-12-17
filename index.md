@@ -5,7 +5,7 @@ hero-banner:
   media:
     video: "/assets/video/levelgroundmma.mp4"
     image: ''
-  title: JOIN THE TRIBE.  <br>$20K for 2020
+  title: JOIN THE TRIBE.  $20K for 2020
   description: At Level Ground, we value resilience, perseverance, community, and
     opportunity. Our Mixed Martial Arts, Jiu Jitsu, Kickboxing, and Yoga offerings
     empower members of all ages to embrace a healthy lifestyle while enjoying connection
