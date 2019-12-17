@@ -18,7 +18,7 @@ hero-banner:
     link: 
     email: 
 text-banner:
-  title: Why
+  title: Why?
   description: In addition to athletics, Level Ground provides college access and
     career opportunities to Boston youth.  Our young people are exposed to a disproportionately
     high level of poverty and crime, and live in neighborhoods that experience a greater
