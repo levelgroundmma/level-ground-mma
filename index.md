@@ -64,6 +64,5 @@ text-cta-banner:
     text: Give Today
     link: "/give"
     email: 
-published: false
 
 ---
