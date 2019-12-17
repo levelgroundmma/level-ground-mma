@@ -20,3 +20,7 @@ fields:
   description: The order for this Staff Member to be laid out on the page
   config:
     min: '0'
+pages:
+- _posts/2019-07-19-Honoring Coach LeRoi Rodriguez.md
+- _posts/_posts/2019-07-19-Honoring Coach LeRoi Rodriguez.md
+- _staff/Justine.md

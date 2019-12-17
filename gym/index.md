@@ -35,15 +35,16 @@ text-cta-banner:
 lists:
 - title: Class Schedule
   bullets:
-  - title: Open gym hours
-    description: Monday - Friday 4 pm - 10 pm
+  - title: Gym opens at 4 pm Monday - Friday
+    description: ''
   - title: Monday
     description: 6 pm Kickboxing, 7 pm No Gi Jiu Jitsu
   - title: Tuesday
-    description: 5:45 pm Yoga, 7 pm Brazilian Jiu Jitsu
+    description: '5:45 pm: Yoga, 7 pm Brazilian Jiu Jitsu'
   - title: 'Wednesday '
-    description: 6 pm Fierce Females (striking/grappling for self-defense), 7 pm Boxing,
-      8 pm Live Striking + Jiu Jitsu Training
+    description: 6 pm Fierce Females (striking/grappling/yoga/high intensity training,
+      with self-defense application), 7 pm Boxing, 8 pm Boxing (with bags), 8 pm No
+      Gi Jiu Jitsu
   - title: Thursday
     description: 6:15 pm Calisthenics, 7 pm Kickboxing, 8 pm No Gi Jiu Jitsu
   - title: Friday

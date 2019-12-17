@@ -3,9 +3,9 @@ layout: home
 title: Home
 hero-banner:
   media:
-    video: "/assets/video/lg_landing_lq.mp4"
+    video: "/assets/video/levelgroundmma.mp4"
     image: ''
-  title: Where Grit Meets Opportunity
+  title: JOIN THE TRIBE.  $20K for 2020
   description: At Level Ground, we value resilience, perseverance, community, and
     opportunity. Our Mixed Martial Arts, Jiu Jitsu, Kickboxing, and Yoga offerings
     empower members of all ages to embrace a healthy lifestyle while enjoying connection
@@ -64,4 +64,5 @@ text-cta-banner:
     text: Give Today
     link: "/give"
     email: 
+
 ---
