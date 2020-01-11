@@ -9,7 +9,7 @@ hero-banner:
   description: At Level Ground, we value resilience, perseverance, community, and
     opportunity. Our Mixed Martial Arts, Jiu Jitsu, Kickboxing, and Yoga offerings
     empower members of all ages to embrace a healthy lifestyle while enjoying connection
-    to a supportive, family-oriented community.
+    to a supportive, family-oriented community
   video-modal:
     text: 
     video-id: 
