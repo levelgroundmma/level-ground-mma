@@ -16,8 +16,8 @@
 title: Level Ground MMA
 email: ali@levelgroundmma.org
 description: >- # this means to ignore newlines until "baseurl:"
-  At Level Ground, we value resilience, perseverance, community, and opportunity. 
-  Our Mixed Martial Arts, Jiu Jitsu, Kickboxing, and Yoga offerings empower members of 
+  At Level Ground, we value resilience, perseverance, community, and opportunity.
+  Our Mixed Martial Arts, Jiu Jitsu, Kickboxing, and Yoga offerings empower members of
   all ages to embrace a healthy lifestyle while enjoying connection to a supportive, family-oriented community.
 url: "http://levelgroundmma.org" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -29,8 +29,6 @@ sass:
 
 # Build settings
 permalink: /:categories/:title/
-markdown: kramdown
-theme:
 plugins:
   - jekyll-feed
 
@@ -43,23 +41,10 @@ collections:
     output: true
     permalink: /news/:title/
   pages:
-    output: true 
+    output: true
     permalink: /:title/
 
 # Site Defaults
 default_image: /assets/image/landing-hero.jpg
 default_white_image: /assets/image/default_white.jpg
 default_logo: /assets/image/lg_logo.png
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-
