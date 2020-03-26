@@ -1,6 +1,6 @@
 <section class="staff">
-    {% assign sortedStaff = site.staff | sort: 'order' %}
-    {% for person in sortedStaff %}
+    <!-- {% assign sortedStaff = site.staff | sort: 'order' %} -->
+    {% for person in site.staff %}
     <div class="staff-banner">
             {% if person.image %}
             <div class="staff-banner-image-wrapper">
