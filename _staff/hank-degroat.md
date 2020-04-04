@@ -4,7 +4,7 @@ position: Wellness Mentor
 email: 
 image: "/assets/image/staff/hank-degroat.png"
 order: 6
-date: ''
+date: '2018-01-18T18:54:21.000+00:00'
 
 ---
 Hank Degroat is an athletic development and rehab coach working out of A Better Day Performance Studio in Waltham MA.  He is a licensed massage therapist and Brazilian Jiu-Jitsu black belt, with a BA in Philosophy and holds multiple certifications in athletic development, life coaching, and wellness.
