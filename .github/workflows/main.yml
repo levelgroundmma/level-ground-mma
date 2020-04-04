@@ -1,6 +1,7 @@
-on: push
-  branches:
-    - webforestry 
+on:
+  push:
+    branches:
+      - webforestry 
 name: Publish Website
 jobs:
   FTP-Deploy-Action:
