@@ -11,7 +11,7 @@ jobs:
     - name: FTP-Deploy-Action
       uses: SamKirkland/FTP-Deploy-Action@3.0.0
       with:
-        ftp-server: ftp://levelgroundmma.org/
+        ftp-server: ftp://ftp.levelgroundmma.org/
         ftp-username: github-webforestry
         ftp-password: ${{ secrets.FTP_PASSWORD }}
         git-ftp-args: --branch webforestry
