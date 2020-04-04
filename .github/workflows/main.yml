@@ -14,4 +14,4 @@ jobs:
         ftp-server: ftp://ftp.levelgroundmma.org/
         ftp-username: github-webforestry
         ftp-password: ${{ secrets.FTP_PASSWORD }}
-        git-ftp-args: --branch webforestry
+        git-ftp-args: --branch=webforestry
