@@ -10,7 +10,7 @@ jobs:
         fetch-depth: 2    
     - uses:  helaili/jekyll-action@2.0.0
       env:
-        JEKYLL_PAT: ${{ GITHUB_TOKEN }}
+        JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
     - name: FTP-Deploy-Action
       uses: SamKirkland/FTP-Deploy-Action@3.0.0
       with:
