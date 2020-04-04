@@ -3,7 +3,8 @@ name: David Moy
 position: Kickboxing Instructor
 email: 
 image: "/assets/image/staff/david-moy.jpg"
-order: "3"
+order: 3
+date: ''
 
 ---
 David Moy is a Program Officer at the Hyams Charitable Foundation.   He has an instructor ranking in Uechi Ryu Karate and has also trained in Boxing, American-Style Kickboxing, Filipino Martial Arts, and Aikido in his 45 years of martial arts practice.
