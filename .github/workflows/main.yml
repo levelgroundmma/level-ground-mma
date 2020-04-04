@@ -5,7 +5,7 @@ jobs:
     name: FTP-Deploy-Action
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@webforestry
+    - uses: actions/checkout@master
       with:
         fetch-depth: 2
     - name: FTP-Deploy-Action
@@ -14,3 +14,4 @@ jobs:
         ftp-server: ftp://levelgroundmma.org/
         ftp-username: github-webforestry
         ftp-password: ${{ secrets.FTP_PASSWORD }}
+        git-ftp-args: --branch webforestry 
