@@ -1,6 +1,7 @@
 on:
   push:
     branches:
+      - master
       - webforestry 
 name: Publish Website
 jobs:
