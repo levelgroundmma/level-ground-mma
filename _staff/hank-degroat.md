@@ -3,7 +3,7 @@ name: Hank Degroat
 position: Wellness Mentor
 email: 
 image: "/assets/image/staff/hank-degroat.png"
-order: 6
+order: 5
 date: '2018-01-18T18:54:21.000+00:00'
 
 ---
