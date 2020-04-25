@@ -1,6 +1,6 @@
 ---
 name: Chris Titus
-position: ''
+position: Board Member
 email: 
 image: "/assets/image/staff/chris-titus.jpg"
 order: 11
