@@ -23,7 +23,7 @@ notice-banner:
                for live fitness classes Monday - Thursday at 6 pm. View the online
                schedule [here](http://levelgroundmma.org/gym/) and jump in!
   youtube-info: If you can’t make a class, subscribe to [LG YouTube](https://www.youtube.com/playlist?list=PLqOx7dCEfsOEVQY0azkdy78COjl_itxrQ) for the latest workout!
-  additional-info-title: In addition to fitness, our Virtual Academy support youth with:
+  additional-info-title: In addition to fitness, our Virtual Academy supports youth with
   additional-info-1: Online Academic Tutoring and College Preparation
   additional-info-2: Online Workforce Development Training 
   support: SUPPORT OUR COMMUNITY. [GIVE TODAY](http://levelgroundmma.org/give/).
