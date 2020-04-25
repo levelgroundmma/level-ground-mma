@@ -1,59 +1,71 @@
-header:
-  - url: /gym
-    title: Gym
-    identifier: gym
-  - url: /hire-us
-    title: Hire Us
-    identifier: hire-us
-  - url: /success-tracks
-    title: Success Tracks
-    identifier: success-tracks
-  - url: /staff
-    title: Staff
-    identifier: staff
-  - url: /news
-    title: News
-    identifier: news
-  - url: /give
-    title: Give
-    identifier: give
-
-header-logo:
-  - url: /
-    title: logo
-    identifier: logo
-    logo-image: "/assets/image/lg_logo_white.png"
-
-social-media:
-  - url: https://www.facebook.com/LevelGroundMMA/
-    title: facebook
-    identifier: facebook
-    icon: fa-facebook-square
-  - url: https://twitter.com/levelgroundmma
-    title: twitter
-    identifier: twitter
-    icon: fa-twitter-square
-  - url: mailto:ali@levelgroundmma.org
-    title: email
-    identifier: email
-    icon: fa-envelope-o
-
+---
 site-map:
-  - url: /gym
-    title: Gym
-    identifier: gym
-  - url: /hire-us
-    title: Hire Us
-    identifier: hire-us
-  - url: /success-tracks
-    title: Success Tracks
-    identifier: success-tracks
-  - url: /staff
-    title: Staff
-    identifier: staff
-  - url: /news
-    title: News
-    identifier: news
-  - url: /give
-    title: Give
-    identifier: give
+- url: "/give"
+  title: Give
+  identifier: give
+  weight: 1
+- url: "/news"
+  title: News
+  identifier: news
+  weight: 2
+- url: "/staff"
+  title: Staff
+  identifier: staff
+  weight: 3
+- url: "/success-tracks"
+  title: Success Tracks
+  identifier: success-tracks
+  weight: 4
+- url: "/hire-us"
+  title: Hire Us
+  identifier: hire-us
+  weight: 5
+- url: "/gym"
+  title: Gym
+  identifier: gym
+  weight: 6
+social-media:
+- url: https://www.instagram.com/levelgroundmma/
+  weight: 3
+  title: instagram
+- url: mailto:ali@levelgroundmma.org
+  title: email
+  identifier: email
+  icon: fa-envelope-o
+  weight: 1
+- url: https://www.facebook.com/LevelGroundMMA/
+  title: facebook
+  identifier: facebook
+  icon: fa-facebook-square
+  weight: 2
+header-logo:
+- url: "/"
+  title: logo
+  identifier: logo
+  logo-image: "/assets/image/lg_logo_white.png"
+  weight: 1
+header:
+- url: "/give"
+  title: Give
+  identifier: give
+  weight: 1
+- url: "/news"
+  title: News
+  identifier: news
+  weight: 2
+- url: "/staff"
+  title: Staff
+  identifier: staff
+  weight: 3
+- url: "/success-tracks"
+  title: Success Tracks
+  identifier: success-tracks
+  weight: 4
+- url: "/hire-us"
+  title: Hire Us
+  identifier: hire-us
+  weight: 5
+- url: "/gym"
+  title: Gym
+  identifier: gym
+  weight: 6
