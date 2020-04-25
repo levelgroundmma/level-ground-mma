@@ -3,7 +3,7 @@ name: Sajeev Popat
 position: Board Member
 email: 
 image: "/assets/image/staff/sajeev-popat.jpg"
-order: 9
+order: 10
 date: '2018-01-18T18:54:21.000+00:00'
 
 ---
