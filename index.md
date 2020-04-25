@@ -19,13 +19,14 @@ hero-banner:
     email: 
 notice-banner:
   title: Level Ground Virtual Academy - A Response to COVID-19
-  description: We are currently closed due to COVID-19. Please join our Virtual Academy for
-               live fitness classes Monday - Thursday at 6 pm.
-               View the online schedule here and jump in!
-               If you can’t make a class, subscribe to LG YouTube for the latest workout!
-               In addition to fitness, our Virtual Academy includes:
-               Online Academic Tutoring and College Preparation
-               Online Workforce Development Training for Student Trainers
+  description: We are currently closed due to COVID-19. Please join our Virtual Academy
+               for live fitness classes Monday - Thursday at 6 pm. View the online
+               schedule [here](http://levelgroundmma.org/gym/) and jump in!
+  youtube-info: If you can’t make a class, subscribe to [LG YouTube](https://www.youtube.com/playlist?list=PLqOx7dCEfsOEVQY0azkdy78COjl_itxrQ) for the latest workout!
+  additional-info-title: In addition to fitness, our Virtual Academy support youth with:
+  additional-info-1: Online Academic Tutoring and College Preparation
+  additional-info-2: Online Workforce Development Training 
+  support: SUPPORT OUR COMMUNITY. [GIVE TODAY](http://levelgroundmma.org/give/).
 
 text-banner:
   title: Why?
