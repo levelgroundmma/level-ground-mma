@@ -6,5 +6,18 @@
         {% if page.notice-banner.description %}
             <p>{{ page.notice-banner.description }}</p>
         {% endif %}
+        {% if page.notice-banner.youtube-info %}
+            <p>{{ page.notice-banner.youtube-info }}</p>
+        {% endif %}
+        {% if page.notice-banner.additional-info-title %}
+            <p>{{ page.notice-banner.additional-info-title }}:</p>
+            <ul>
+                <li>{{page.notice-banner.additional-info-1}}</li>
+                <li>{{page.notice-banner.additional-info-2}}</li>
+            </ul>
+        {% endif %}
+        {% if page.notice-banner.support %}
+            <h2>{{ page.notice-banner.support }}</h2>
+        {% endif %}
     </div>
 </section>
