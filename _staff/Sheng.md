@@ -1,7 +1,7 @@
 ---
-date: ''
+date: '2018-01-18T18:54:21.000+00:00'
 name: Sheng Wang
-position: Sheng Wang
+position: Board Member
 image: "/uploads/2020/04/10/Sheng Wang.JPG"
 order: 6
 
