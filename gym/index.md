@@ -16,11 +16,9 @@ hero-banner:
     email: 
 row-banner:
   image: "/assets/image/gym-row.jpg"
-  title: Our Gym
-  description: Level Ground empowers and connects our community through health and
-    fitness. Our 6,500 square foot facility includes a dedicated mat space and weight
-    area.  In addition to our classes, we provide Personal Training and Private Lessons
-    in Martial Arts, Self-Defense, and Yoga.
+  title: VIRTUAL ACADEMY
+  description: Join our FREE virtual classes! Download Zoom and go to bit.ly/LGVirtualAcademy
+    at class time.                  Schedule is listed below.
 text-cta-banner:
   title: 21 or under? Check out our Success Tracks.
   description: If you are 21 or under, you qualify for free training by joining one
@@ -33,7 +31,18 @@ text-cta-banner:
     link: "/success-tracks"
     email: 
 lists:
-- title: Class Schedule
+- title: VIRTUAL ACADEMY SCHEDULE
+  bullets:
+  - title: Monday
+    description: '6 pm: Calisthenics + Kickboxing/Grappling Drills'
+  - title: Tuesday
+    description: '6 pm: Yoga, 7 pm Calisthenics + Kickboxing/Grappling'
+  - title: Wednesday
+    description: 6 pm Calisthenics + Grappling Drills
+  - title: Thursday
+    description: 6 pm Calisthenics, 7 pm Kickboxing Drills
+  footnote: Download Zoom, and go to bit.ly/LGVirtualAcademy at start time
+- title: 'Gym Standard Schedule '
   bullets:
   - title: Gym opens at 4 pm Monday - Friday
     description: ''
@@ -53,13 +62,13 @@ lists:
   footnote: All skill levels welcome.
 - title: Pricing
   bullets:
-  - title: Prices subject to increase.  Sign up today to lock in your rate forever.
+  - title: ALL VIRTUAL CLASSES ARE FREE
     description: ''
   - title: 'Youth 19 years old and under: Free'
     description: ''
-  - title: '20 & 21 years old Unlimited Membership: $20/month'
+  - title: '20 & 21 years old Gym Membership: $20/month'
     description: ''
-  - title: '22+ years old Unlimited Membership: $50/month'
+  - title: '22+ years old Gym Membership: $50/month'
     description: "(Finances tight?  Email ali@levelgroundmma.org and ask about our
       $30/month Community Membership)"
   - title: Adult Drop In
