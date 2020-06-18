@@ -1,8 +1,8 @@
 ---
 date: July 19, 2019
 name: Justine Tang
-position: Academic Coordinator
-image: "/uploads/2019/11/16/Justine.jpg"
+position: Program Coordinator
+image: "/uploads/2020/06/18/justine-website.jpg"
 order: 5
 
 ---
