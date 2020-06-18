@@ -2,7 +2,7 @@
 date: July 19, 2019
 name: Justine Tang
 position: Program Coordinator
-image: "/uploads/2020/06/18/justine-website.jpg"
+image: "/uploads/2020/06/18/justine-kyrahh-1.jpg"
 order: 5
 
 ---
