@@ -3,7 +3,7 @@ date: '2018-01-18T18:54:21.000+00:00'
 name: LeRoi Rodriguez Jr.
 position: Jiu Jitsu Instructor
 image: "/uploads/2020/04/25/hudson.jpg"
-order: 4
+order: 5
 
 ---
 A Black Belt in both styles of Brazilian Jiu-jitsu (Gi & No-Gi), Green Belt in Japanese Ju-Jitsu, & more recently, has dawned a White Belt in Judo, LeRoi Rodriguez Jr is always striving to make himself & his students become better athletes & human beings by implementing the athletic skills & knowledge he has learned over the years into his No-Gi BJJ classes.

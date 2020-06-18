@@ -3,7 +3,7 @@ name: David Moy
 position: Kickboxing Instructor
 email: 
 image: "/assets/image/staff/david-moy.jpg"
-order: 3
+order: 4
 date: '2018-01-18T18:54:21.000+00:00'
 
 ---
