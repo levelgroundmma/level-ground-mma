@@ -34,7 +34,7 @@ lists:
 - title: OUTDOOR AND VIRTUAL ACADEMY SCHEDULE
   bullets:
   - title: Monday (VIRTUAL ONLY)
-    description: '6 pm: Calisthenics + Kickboxing/Grappling Drills'
+    description: '6 pm: Boxing & Calisthenics'
   - title: Tuesday (OUTDOOR & VIRTUAL)
     description: '6:15 pm: Yoga, 7:15 pm Calisthenics + Kickboxing/Grappling'
   - title: Wednesday (OUTDOOR & VIRTUAL)
