@@ -31,12 +31,12 @@ text-cta-banner:
     link: "/success-tracks"
     email: 
 lists:
-- title: VIRTUAL ACADEMY SCHEDULE
+- title: OUTDOOR AND VIRTUAL ACADEMY SCHEDULE
   bullets:
-  - title: Monday
+  - title: Monday (VIRTUAL ONLY)
     description: '6 pm: Calisthenics + Kickboxing/Grappling Drills'
-  - title: Tuesday
-    description: '6 pm: Yoga, 7 pm Calisthenics + Kickboxing/Grappling'
+  - title: Tuesday (OUTDOOR & VIRTUAL)
+    description: '6:15 pm: Yoga, 7:15 pm Calisthenics + Kickboxing/Grappling'
   - title: Wednesday
     description: 6 pm Calisthenics + Grappling Drills
   - title: Thursday
