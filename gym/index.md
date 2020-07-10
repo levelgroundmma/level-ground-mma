@@ -40,7 +40,7 @@ lists:
     description: '6:15 pm: Yoga, 7:15 pm Calisthenics + Kickboxing/Grappling'
   - title: Wednesday (OUTDOOR & VIRTUAL)
     description: 6:15 pm Boxing & Calisthenics
-  - title: Thursday (VIRTUAL & OUTDOOR)
+  - title: Thursday (OUTDOOR & VIRTUAL)
     description: 6:15 pm Calisthenics, 7:15 pm Kickboxing
   footnote: For Virtual Classes, download Zoom, and go to bit.ly/LGVirtualAcademy
     at start time. Outdoor classes are held at Epiphany School, 154 Centre St, Boston,
