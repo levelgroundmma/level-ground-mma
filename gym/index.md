@@ -41,7 +41,9 @@ lists:
     description: 6:15 pm Boxing & Calisthenics
   - title: Thursday (VIRTUAL & OUTDOOR)
     description: 6:15 pm Calisthenics, 7:15 pm Kickboxing
-  footnote: Download Zoom, and go to bit.ly/LGVirtualAcademy at start time
+  footnote: For Virtual Classes, download Zoom, and go to bit.ly/LGVirtualAcademy
+    at start time. Outdoor classes are held at Epiphany School, 154 Centre St, Boston,
+    MA 02124.
 - title: 'Gym Standard Schedule '
   bullets:
   - title: Gym opens at 4 pm Monday - Friday
