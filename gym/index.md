@@ -16,9 +16,10 @@ hero-banner:
     email: 
 row-banner:
   image: "/assets/image/gym-row.jpg"
-  title: VIRTUAL ACADEMY
-  description: Join our FREE virtual classes! Download Zoom and go to bit.ly/LGVirtualAcademy
-    at class time.                  Schedule is listed below.
+  title: VIRTUAL ACADEMY & OUTDOOR CLASSES
+  description: "Outdoor classes take place at Epiphany School, 154 Centre St, Boston,
+    MA 02124. Classes are also live streamed! Download Zoom and go to bit.ly/LGVirtualAcademy
+    at class time. \nSchedule is listed below."
 text-cta-banner:
   title: 21 or under? Check out our Success Tracks.
   description: If you are 21 or under, you qualify for free training by joining one
