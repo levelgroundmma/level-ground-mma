@@ -39,8 +39,8 @@ lists:
     description: '6:15 pm: Yoga, 7:15 pm Calisthenics + Kickboxing/Grappling'
   - title: Wednesday (OUTDOOR & VIRTUAL)
     description: 6:15 pm Boxing & Calisthenics
-  - title: Thursday
-    description: 6 pm Calisthenics, 7 pm Kickboxing Drills
+  - title: Thursday (VIRTUAL & OUTDOOR)
+    description: 6:15 pm Calisthenics, 7:15 pm Kickboxing
   footnote: Download Zoom, and go to bit.ly/LGVirtualAcademy at start time
 - title: 'Gym Standard Schedule '
   bullets:
