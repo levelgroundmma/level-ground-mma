@@ -18,7 +18,7 @@ hero-banner:
     link: 
     email: 
 notice-banner:
-  title: Level Ground Virtual Academy - A Response to COVID-19
+  title: Level Ground Outdoor & Virtual Academy - A Response to COVID-19
 
 text-banner:
   title: Why?
