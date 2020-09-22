@@ -3,8 +3,8 @@ label: Staff Member Template
 hide_body: false
 fields:
 - type: text
-  name: name
-  label: Name
+  name: title
+  label: Title
 - name: date
   type: datetime
   label: Date
@@ -16,8 +16,8 @@ fields:
     display_utc: false
   default: now
 - type: text
-  name: position
-  label: Position
+  name: author
+  label: Authorr
 - type: file
   name: image
   label: Image
