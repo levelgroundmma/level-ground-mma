@@ -1,9 +1,11 @@
 ---
-date: ''
+date: 2020-09-20 18:00:00 -0400
 name: 'Now Hiring: Full-Time Program Manager'
 position: ''
 image: ''
 order: 
+title: ''
+author: ''
 
 ---
 # **Level Ground MMA Program Manager Job Description**
