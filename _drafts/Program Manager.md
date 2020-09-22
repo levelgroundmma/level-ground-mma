@@ -1,5 +1,5 @@
 ---
-date: '09/21/20'
+date: ''
 name: 'Now Hiring: Full-Time Program Manager'
 position: ''
 image: ''
