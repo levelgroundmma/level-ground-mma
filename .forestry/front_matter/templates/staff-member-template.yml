@@ -3,11 +3,18 @@ label: Staff Member Template
 hide_body: false
 fields:
 - type: text
-  label: Date
-  name: date
-- type: text
   name: name
   label: Name
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
 - type: text
   name: position
   label: Position
