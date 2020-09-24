@@ -16,10 +16,11 @@ hero-banner:
     email: 
 row-banner:
   image: "/assets/image/gym-row.jpg"
-  title: VIRTUAL ACADEMY & OUTDOOR CLASSES
-  description: "Outdoor classes take place at Epiphany School, 154 Centre St, Boston,
-    MA 02124. Classes are also live streamed! Download Zoom and go to bit.ly/LGVirtualAcademy
-    at class time. \nSchedule is listed below."
+  title: CLASS SCHEDULE AND OPEN GYM
+  description: Level Ground will reopen for classes and open gym use on Monday, October
+    5. Capacity is limited, so we strongly encourage you to reserve your spot for
+    classes and using the equipment. Do not over-reserve. If a no-show occurs 3 times,
+    you will no longer be able to pre-register. See our guidelines for more details.
 text-cta-banner:
   title: 21 or under? Check out our Success Tracks.
   description: If you are 21 or under, you qualify for free training by joining one
