@@ -18,8 +18,7 @@ hero-banner:
     link: 
     email: 
 notice-banner:
-  title: Level Ground Outdoor & Virtual Academy - A Response to COVID-19
-
+  title: WELCOME BACK TO LEVEL GROUND
 text-banner:
   title: Why?
   description: In addition to athletics, Level Ground provides college access and
