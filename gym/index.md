@@ -35,8 +35,6 @@ text-cta-banner:
 lists:
 - title: Pricing
   bullets:
-  - title: ALL VIRTUAL CLASSES ARE FREE
-    description: ''
   - title: 'Youth 19 years old and under: Free'
     description: ''
   - title: '20 & 21 years old Gym Membership: $20/month'
