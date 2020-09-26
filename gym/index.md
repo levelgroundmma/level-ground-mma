@@ -45,5 +45,8 @@ lists:
   - title: Adult Drop In
     description: "$8 for one class (first class free), $10 for 2 back-to-back classes"
   footnote: 
+- title: ''
+  bullets: ''
+  footnote: ''
 
 ---
