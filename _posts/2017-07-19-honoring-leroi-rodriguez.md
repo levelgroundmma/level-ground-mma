@@ -2,7 +2,7 @@
 layout: post
 author: Level Ground Mixed Martial Arts
 title: Honoring Coach LeRoi Rodriguez
-date: 2019-07-18 13:56:00 -0400
+date: 2019-07-18T13:56:00.000-04:00
 
 ---
 ![](/uploads/2019/07/19/LeRoi 1.jpg)

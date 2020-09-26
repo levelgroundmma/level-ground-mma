@@ -21,3 +21,6 @@ fields:
   name: author
   label: author
   default: Level Ground Mixed Martial Arts
+pages:
+- _posts/2017-07-19-honoring-leroi-rodriguez.md
+- _posts/2020-09-25-coming-back-to-the-gym-student-and-staff-expectations.md
