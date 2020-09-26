@@ -2,7 +2,7 @@
 layout: post
 author: Level Ground Mixed Martial Arts
 title: 'We''re Hiring: Full-Time Program Manager'
-date: 2020-09-20 18:00:00 -0400
+date: 2020-09-20T18:00:00.000-04:00
 
 ---
 # **Level Ground MMA Program Manager Job Description**
