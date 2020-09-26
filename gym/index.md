@@ -33,37 +33,6 @@ text-cta-banner:
     link: "/success-tracks"
     email: 
 lists:
-- title: OUTDOOR AND VIRTUAL ACADEMY SCHEDULE
-  bullets:
-  - title: Monday (VIRTUAL ONLY)
-    description: '6 pm: Boxing & Calisthenics'
-  - title: Tuesday (OUTDOOR & VIRTUAL)
-    description: '6:15 pm: Yoga, 7:15 pm Calisthenics + Kickboxing/Grappling'
-  - title: Wednesday (OUTDOOR & VIRTUAL)
-    description: 6:15 pm Boxing & Calisthenics
-  - title: Thursday (OUTDOOR & VIRTUAL)
-    description: 6:15 pm Calisthenics, 7:15 pm Kickboxing
-  footnote: For Virtual Classes, download Zoom, and go to bit.ly/LGVirtualAcademy
-    at start time. Outdoor classes are held at Epiphany School, 154 Centre St, Boston,
-    MA 02124.
-- title: 'Gym Standard Schedule '
-  bullets:
-  - title: Gym opens at 4 pm Monday - Friday
-    description: ''
-  - title: Monday
-    description: 6 pm Kickboxing, 7 pm No Gi Jiu Jitsu
-  - title: Tuesday
-    description: '6 pm: Yoga, 7 pm Brazilian Jiu Jitsu'
-  - title: 'Wednesday '
-    description: 6 pm Fierce Females (striking/grappling/yoga/high intensity training,
-      with self-defense application), 7 pm Boxing, 8 pm Boxing (with bags), 8 pm No
-      Gi Jiu Jitsu
-  - title: Thursday
-    description: 6:15 pm Calisthenics, 7 pm Kickboxing, 8 pm No Gi Jiu Jitsu
-  - title: Friday
-    description: 6 pm Yoga, 7 pm Kickboxing w/ Bags & Calisthenics, 8 pm No Gi Jiu
-      Jitsu
-  footnote: All skill levels welcome.
 - title: Pricing
   bullets:
   - title: ALL VIRTUAL CLASSES ARE FREE
