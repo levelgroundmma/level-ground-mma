@@ -1,9 +1,12 @@
 ---
-date: 2020-11-06 13:32:09 -0500
+date: '2020-11-06 13:32:09 -0500'
 author: Level Ground Mixed Martial Arts
 title: 'Jasmine Clark, '
 image: "/uploads/2020/11/06/photoforlgwebsite.jpg"
 order: 
+name: Jasmine Clark
+position: ''
+email: ''
 published: false
 
 ---

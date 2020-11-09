@@ -13,21 +13,22 @@ fields:
   label: Image
   config:
     maxSize: 2
+- type: text
+  name: position
+  label: Position
+  default: Level Ground Mixed Martial Arts
 - name: email
   type: text
   config:
     required: false
-  label: email
-- type: text
-  name: position
-  label: position
-  default: Level Ground Mixed Martial Arts
+  label: Email
 - type: number
   name: order
   label: Order
   description: The order for this Staff Member to be laid out on the page
   config:
     min: '0'
+    step: 1
 pages:
 - _staff/Justine.md
 - _staff/Sheng.md
