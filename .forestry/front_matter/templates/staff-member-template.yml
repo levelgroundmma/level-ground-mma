@@ -22,7 +22,8 @@ fields:
   config:
     required: false
   label: Email
-  hidden: true
+  hidden: false
+  default: name@levelgroundmma.org
 - type: number
   name: order
   label: Order
