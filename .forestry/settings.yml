@@ -17,8 +17,10 @@ sections:
 - type: directory
   path: _staff
   label: Staff
-  create: all
-  match: "**/*"
+  create: documents
+  match: "*.md"
+  templates:
+  - staff-member-template
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: "/uploads"
