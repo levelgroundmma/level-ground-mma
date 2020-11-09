@@ -3,8 +3,20 @@ label: Staff Member Template
 hide_body: false
 fields:
 - type: text
-  name: title
-  label: Title
+  name: name
+  label: name
+- type: file
+  name: image
+  label: Image
+- name: email
+  type: text
+  config:
+    required: false
+  label: email
+- type: text
+  name: position
+  label: position
+  default: Level Ground Mixed Martial Arts
 - name: date
   type: datetime
   label: Date
@@ -15,13 +27,6 @@ fields:
     time_format: 
     display_utc: false
   default: now
-- type: text
-  name: author
-  label: Author
-  default: Level Ground Mixed Martial Arts
-- type: file
-  name: image
-  label: Image
 - type: number
   name: order
   label: Order
