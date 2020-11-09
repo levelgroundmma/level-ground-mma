@@ -11,6 +11,8 @@ fields:
 - type: file
   name: image
   label: Image
+  config:
+    maxSize: 2
 - name: email
   type: text
   config:
