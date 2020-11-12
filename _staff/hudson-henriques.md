@@ -1,9 +1,9 @@
 ---
 name: Hudson Henriques
 position: Head Instructor
-email: 
+email: ''
 image: "/assets/image/staff/hudson-henriques.jpg"
-order: 2
+order: 4
 date: '2018-01-18T18:54:21.000+00:00'
 
 ---
