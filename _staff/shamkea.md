@@ -3,7 +3,8 @@ date: '2018-01-18T18:54:21.000+00:00'
 name: Shameka Charley
 position: Board Member
 image: "/uploads/2020/04/25/ShamekaProfessionalPic.jpg"
-order: 9
+order: 11
+email: ''
 
 ---
 Shameka Charley, M.A.Ed is a Software Development Instructor who works with opportunity youth at Year Up Greater Boston to close the economic and skills gap.
