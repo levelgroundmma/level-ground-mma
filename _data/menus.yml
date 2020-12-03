@@ -1,6 +1,9 @@
 ---
 site-map:
 - url: https://docs.google.com/forms/d/e/1FAIpQLSc31CgRtnA1liseqmuiryB1lVWxTFOY9xOWS02jTE4Vpd-9gQ/viewform
+  weight: 8
+  title: December Care Packages
+- url: https://docs.google.com/forms/d/e/1FAIpQLSc31CgRtnA1liseqmuiryB1lVWxTFOY9xOWS02jTE4Vpd-9gQ/viewform
   weight: 7
   title: December Care Packages
 - url: "/gym"
