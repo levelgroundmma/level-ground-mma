@@ -1,8 +1,5 @@
 ---
 site-map:
-- url: https://docs.google.com/forms/d/e/1FAIpQLSc31CgRtnA1liseqmuiryB1lVWxTFOY9xOWS02jTE4Vpd-9gQ/viewform
-  weight: 7
-  title: December Care Packages
 - url: "/gym"
   title: Gym
   identifier: gym
@@ -48,6 +45,9 @@ header-logo:
   logo-image: "/assets/image/lg_logo_white.png"
   weight: 1
 header:
+- url: https://docs.google.com/forms/d/e/1FAIpQLSc31CgRtnA1liseqmuiryB1lVWxTFOY9xOWS02jTE4Vpd-9gQ/viewform
+  weight: 7
+  title: December Care Packages
 - url: "/gym"
   title: Gym
   identifier: gym
