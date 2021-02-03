@@ -13,7 +13,7 @@ jobs:
     - name: FTP-Deploy-Action
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
-        server: ftp://ftp.levelgroundmma.org/
+        server: ftp.levelgroundmma.org
         username: github-webforestry@levelgroundmma.org
         password: ${{ secrets.FTP_PASSWORD }}
         local-dir: ./_site/
