@@ -11,10 +11,9 @@ jobs:
     - name: Build
       uses: jerryjvl/jekyll-build-action@v1
     - name: FTP-Deploy-Action
-      uses: SamKirkland/FTP-Deploy-Action@3.0.0
+      uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
-        ftp-server: ftp://ftp.levelgroundmma.org/
-        ftp-username: github-webforestry@levelgroundmma.org
-        ftp-password: ${{ secrets.FTP_PASSWORD }}
+        server: ftp://ftp.levelgroundmma.org/
+        username: github-webforestry@levelgroundmma.org
+        password: ${{ secrets.FTP_PASSWORD }}
         local-dir: ./_site/
-        git-ftp-args: --all
