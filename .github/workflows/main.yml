@@ -17,3 +17,4 @@ jobs:
         username: github-webforestry@levelgroundmma.org
         password: ${{ secrets.FTP_PASSWORD }}
         local-dir: ./_site/
+        state-name: ../.ftp-deploy-sync-state.json
