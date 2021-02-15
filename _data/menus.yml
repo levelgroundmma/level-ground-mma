@@ -1,27 +1,24 @@
 ---
 header:
 - url: https://docs.google.com/forms/d/e/1FAIpQLSeOB8DW7mcn-yEh5eIiIaSvEEPCD9MRYhPJeq4gJzNw9KElkQ/viewform?usp=sf_link
-  weight: 6
+  weight: 5
   title: Pod Signup
-- url: https://docs.google.com/forms/d/e/1FAIpQLSc31CgRtnA1liseqmuiryB1lVWxTFOY9xOWS02jTE4Vpd-9gQ/viewform
-  weight: 2
-  title: Dec. Care Packages
 - url: "/gym"
   title: Gym
   identifier: gym
-  weight: 8
+  weight: 7
 - url: "/hire-us"
   title: Hire Us
   identifier: hire-us
-  weight: 5
+  weight: 4
 - url: "/success-tracks"
   title: Success Tracks
   identifier: success-tracks
-  weight: 4
+  weight: 3
 - url: "/staff"
   title: Staff
   identifier: staff
-  weight: 3
+  weight: 2
 - url: "/news"
   title: News
   identifier: news
@@ -29,7 +26,7 @@ header:
 - url: "/give"
   title: Give
   identifier: give
-  weight: 7
+  weight: 6
 header-logo:
 - url: "/"
   title: logo
