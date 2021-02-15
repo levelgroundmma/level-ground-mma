@@ -1,35 +1,35 @@
 ---
 header:
 - url: https://docs.google.com/forms/d/e/1FAIpQLSeOB8DW7mcn-yEh5eIiIaSvEEPCD9MRYhPJeq4gJzNw9KElkQ/viewform?usp=sf_link
-  weight: 8
+  weight: 6
   title: Pod Signup
 - url: https://docs.google.com/forms/d/e/1FAIpQLSc31CgRtnA1liseqmuiryB1lVWxTFOY9xOWS02jTE4Vpd-9gQ/viewform
-  weight: 3
+  weight: 2
   title: Dec. Care Packages
 - url: "/gym"
   title: Gym
   identifier: gym
-  weight: 7
+  weight: 8
 - url: "/hire-us"
   title: Hire Us
   identifier: hire-us
-  weight: 6
+  weight: 5
 - url: "/success-tracks"
   title: Success Tracks
   identifier: success-tracks
-  weight: 5
+  weight: 4
 - url: "/staff"
   title: Staff
   identifier: staff
-  weight: 4
+  weight: 3
 - url: "/news"
   title: News
   identifier: news
-  weight: 2
+  weight: 1
 - url: "/give"
   title: Give
   identifier: give
-  weight: 1
+  weight: 7
 header-logo:
 - url: "/"
   title: logo
