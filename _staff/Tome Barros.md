@@ -3,7 +3,7 @@ position: Board member
 email: ''
 name: Tome Barros
 image: "/uploads/2021/04/27/board-pic-tome.jpg"
-order: 15
+order: 12
 
 ---
 Tome Barros joins the Level Ground with a wealth of both domestic and international programmatic development experience. Most recently serving as a Director of Training at Center of the study of sport in society providing curriculum and training on issues involving social, racial and gender inequalities in our society.
