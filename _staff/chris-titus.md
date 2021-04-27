@@ -3,7 +3,7 @@ name: Chris Titus
 position: Board Member
 email: ''
 image: "/assets/image/staff/chris-titus.jpg"
-order: 13
+order: 21
 date: '2018-01-18T18:54:21.000+00:00'
 
 ---
