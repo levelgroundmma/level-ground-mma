@@ -32,6 +32,7 @@ fields:
     min: '0'
     step: 1
 pages:
+- _staff/Jerry Yuan.md
 - _staff/Justine.md
 - _staff/Kim Ring.md
 - _staff/Sheng.md
